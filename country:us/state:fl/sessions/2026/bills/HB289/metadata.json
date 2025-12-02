@@ -151,6 +151,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Favorable by Judiciary Committee",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Judiciary Committee",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
+    },
+    {
+      "description": "Bill released to House Calendar",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -168,6 +200,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Greco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Plakon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Plakon\"}",
       "organization_id": null
     }
   ],
@@ -209,10 +257,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (11/24/2025 12:51 PM)",
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (12/2/2025 1:50 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/289/Analyses/h0289a.JDC.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/289/Analyses/h0289b.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -260,6 +308,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-02T23:14:58Z"
   }
 }

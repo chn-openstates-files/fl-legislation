@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
-    "social welfare",
-    "subject index"
+    "public health",
+    "social welfare"
   ],
   "abstracts": [
     {
@@ -86,6 +86,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Favorable by Health Care Facilities & Systems Subcommittee",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,6 +107,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Yarkosky\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
       "organization_id": null
     }
   ],
@@ -112,7 +132,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health Care Facilities & Systems Subcommittee (Post-Meeting) (12/1/2025 9:38 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/141/Analyses/h0141.HFS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -161,6 +193,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-02T23:14:58Z"
   }
 }

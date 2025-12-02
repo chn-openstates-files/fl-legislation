@@ -7,13 +7,11 @@
     "bill"
   ],
   "subject": [
-    "civil practice and procedure",
     "crimes",
     "evidence",
-    "k",
     "planning and development",
     "public officers, employees, and records",
-    "relations",
+    "subject index",
     "taxation and finance"
   ],
   "abstracts": [
@@ -58,6 +56,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "CS by Judiciary; YEAS 10 NAYS 0",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -88,7 +96,34 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (12/1/2025 12:35 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/380/Analyses/2026s00380.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "968116 - Amendment to S 380 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/380/Amendment/968116/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/380/Amendment/968116/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -209,6 +244,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-02T23:14:58Z"
   }
 }

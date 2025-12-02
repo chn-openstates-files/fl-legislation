@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "public officers, employees, and records",
+    "public transportation",
     "subject index"
   ],
   "abstracts": [
@@ -74,6 +74,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Favorable by Criminal Justice Subcommittee",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,10 +142,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (11/25/2025 10:13 AM)",
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (12/2/2025 4:31 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/7003/Analyses/h7003.CRM.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/7003/Analyses/h7003a.CRM.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -145,6 +177,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-02T23:14:58Z"
   }
 }

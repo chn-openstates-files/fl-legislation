@@ -85,6 +85,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
       }
+    },
+    {
+      "description": "Favorable by Education Administration Subcommittee",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
+    },
+    {
+      "description": "Reported out of Education Administration Subcommittee",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
+    },
+    {
+      "description": "Now in PreK-12 Budget Subcommittee",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T23:14:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -121,10 +153,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Education Administration Subcommittee (Post-Meeting) (11/21/2025 2:55 PM)",
+      "note": "Bill Analysis -- Education Administration Subcommittee (Post-Meeting) (12/2/2025 5:15 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/129/Analyses/h0129.EAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/129/Analyses/h0129a.EAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -156,6 +188,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-02T23:14:58Z"
   }
 }

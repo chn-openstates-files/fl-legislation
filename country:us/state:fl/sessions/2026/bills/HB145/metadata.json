@@ -10,15 +10,14 @@
     "and solicitations",
     "civil rights",
     "industry",
-    "insurance",
+    "k",
     "limitations",
     "military affairs and related matters",
-    "motor vehicles",
     "planning and development",
-    "public business",
     "public lands and property",
     "public transportation",
     "railroads and other regulated utilities",
+    "real and personal property",
     "reclamation, and use",
     "relations",
     "subject index",
@@ -174,6 +173,16 @@
       "_processing": {
         "log_file_created": "2025-12-03T23:47:45Z"
       }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2025-12-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-05T00:28:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -217,6 +226,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/145/Analyses/h0145c.BUC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (12/4/2025 2:20 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/145/Analyses/h0145d.JDC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -696,6 +716,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T23:47:45Z"
+    "logs_latest_update": "2025-12-05T00:28:31Z"
   }
 }

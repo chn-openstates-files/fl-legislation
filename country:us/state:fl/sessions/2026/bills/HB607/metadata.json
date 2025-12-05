@@ -10,16 +10,17 @@
     "and solicitations",
     "executive branch",
     "industry",
-    "insurance",
+    "k",
     "labor",
     "ports and harbors",
+    "public health",
     "public lands and property",
     "public officers, employees, and records",
     "public transportation",
+    "real and personal property",
     "reclamation, and use",
     "regulation of professions and occupations",
     "subject index",
-    "taxation and finance",
     "vessels"
   ],
   "abstracts": [
@@ -88,6 +89,16 @@
       "_processing": {
         "log_file_created": "2025-12-03T23:47:45Z"
       }
+    },
+    {
+      "description": "Added to Industries & Professional Activities Subcommittee agenda",
+      "date": "2025-12-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-05T00:28:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -114,7 +125,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (12/4/2025 5:05 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/607/Analyses/h0607.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -1179,6 +1202,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T23:47:45Z"
+    "logs_latest_update": "2025-12-05T00:28:31Z"
   }
 }

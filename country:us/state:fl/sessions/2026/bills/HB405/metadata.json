@@ -132,6 +132,40 @@
       "_processing": {
         "log_file_created": "2025-12-03T23:47:45Z"
       }
+    },
+    {
+      "description": "Referred to State Administration Budget Subcommittee",
+      "date": "2025-12-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-05T00:28:31Z"
+      }
+    },
+    {
+      "description": "Referred to Commerce Committee",
+      "date": "2025-12-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-05T00:28:31Z"
+      }
+    },
+    {
+      "description": "Now in State Administration Budget Subcommittee",
+      "date": "2025-12-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-05T00:28:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -227,6 +261,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-03T23:47:45Z"
+    "logs_latest_update": "2025-12-05T00:28:31Z"
   }
 }

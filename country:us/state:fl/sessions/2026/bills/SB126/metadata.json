@@ -8,7 +8,7 @@
   ],
   "subject": [
     "railroads and other regulated utilities",
-    "reclamation, and use"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -52,6 +52,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T18:22:22Z"
       }
+    },
+    {
+      "description": "CS by Regulated Industries; YEAS 9 NAYS 0",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-10T01:08:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -90,7 +100,34 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Regulated Industries (Pre-Meeting) (12/8/2025 10:03 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/126/Analyses/2026s00126.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "132210 - Amendment (Delete All) to S 126 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/126/Amendment/132210/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/126/Amendment/132210/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -115,6 +152,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T18:22:22Z"
+    "logs_latest_update": "2025-12-10T01:08:31Z"
   }
 }

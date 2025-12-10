@@ -51,6 +51,28 @@
       "_processing": {
         "log_file_created": "2025-12-02T18:22:22Z"
       }
+    },
+    {
+      "description": "Favorable by Criminal Justice; YEAS 6 NAYS 0",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-10T01:08:31Z"
+      }
+    },
+    {
+      "description": "Now in Governmental Oversight and Accountability",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-10T01:08:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -81,7 +103,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice (Pre-Meeting) (12/8/2025 9:55 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/350/Analyses/2026s00350.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (12/9/2025 12:10 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/350/Analyses/2026s00350.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -106,6 +151,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T18:22:22Z"
+    "logs_latest_update": "2025-12-10T01:08:31Z"
   }
 }

@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "public transportation",
+    "domestic relations",
     "subject index"
   ],
   "abstracts": [
@@ -52,6 +52,16 @@
       "_processing": {
         "log_file_created": "2025-12-02T18:22:22Z"
       }
+    },
+    {
+      "description": "CS by Criminal Justice; YEAS 6 NAYS 0",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-10T01:08:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -82,7 +92,34 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice (Pre-Meeting) (12/8/2025 9:55 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/298/Analyses/2026s00298.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "342176 - Amendment (Delete All) to S 298 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/298/Amendment/342176/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/298/Amendment/342176/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -98,6 +135,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T18:22:22Z"
+    "logs_latest_update": "2025-12-10T01:08:31Z"
   }
 }

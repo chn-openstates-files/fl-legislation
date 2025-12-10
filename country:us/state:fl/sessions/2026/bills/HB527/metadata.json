@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "insurance"
   ],
   "abstracts": [
     {
@@ -73,6 +73,18 @@
       "_processing": {
         "log_file_created": "2025-12-02T23:14:58Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Insurance & Banking Subcommittee",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-10T01:08:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,6 +122,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "245389 - Strike All Amendment to H 527 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/527/Amendment/245389/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -127,6 +150,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T23:14:58Z"
+    "logs_latest_update": "2025-12-10T01:08:31Z"
   }
 }

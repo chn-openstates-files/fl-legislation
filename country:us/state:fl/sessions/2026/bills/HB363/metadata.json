@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
+    "criminal procedure and corrections",
     "regulation of professions and occupations",
-    "social welfare",
     "subject index"
   ],
   "abstracts": [
@@ -75,6 +75,18 @@
       "_processing": {
         "log_file_created": "2025-12-02T23:14:58Z"
       }
+    },
+    {
+      "description": "Favorable by Health Professions & Programs Subcommittee",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-10T01:08:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,7 +113,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health Professions & Programs Subcommittee (Post-Meeting) (12/8/2025 1:09 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/363/Analyses/h0363.HPP.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -182,6 +206,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T23:14:58Z"
+    "logs_latest_update": "2025-12-10T01:08:31Z"
   }
 }

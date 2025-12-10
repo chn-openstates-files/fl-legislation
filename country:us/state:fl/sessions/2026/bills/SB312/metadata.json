@@ -8,7 +8,8 @@
   ],
   "subject": [
     "civil rights",
-    "public health",
+    "concurrent)",
+    "domestic relations",
     "subject index"
   ],
   "abstracts": [
@@ -53,6 +54,18 @@
       "_processing": {
         "log_file_created": "2025-12-02T18:22:22Z"
       }
+    },
+    {
+      "description": "Favorable by Health Policy; YEAS 7 NAYS 0",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-10T01:08:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -83,7 +96,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Health Policy (Pre-Meeting) (12/8/2025 9:52 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/312/Analyses/2026s00312.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Policy (Post-Meeting) (12/9/2025 4:38 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/312/Analyses/2026s00312.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -236,6 +272,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T18:22:22Z"
+    "logs_latest_update": "2025-12-10T01:08:31Z"
   }
 }

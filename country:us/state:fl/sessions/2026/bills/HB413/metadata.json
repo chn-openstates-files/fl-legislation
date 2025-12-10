@@ -74,6 +74,18 @@
       "_processing": {
         "log_file_created": "2025-12-02T23:14:58Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Civil Justice & Claims Subcommittee",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-10T01:08:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -108,7 +120,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (12/3/2025 11:26 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/413/Analyses/h0413.CIV.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "057205 - Amendment to H 413 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/413/Amendment/057205/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -141,6 +176,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T23:14:58Z"
+    "logs_latest_update": "2025-12-10T01:08:31Z"
   }
 }

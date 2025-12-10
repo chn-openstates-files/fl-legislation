@@ -10,7 +10,8 @@
     "and solicitations",
     "aviation",
     "business organizations",
-    "reclamation, and use",
+    "municipalities",
+    "public transportation",
     "regulation of professions and occupations",
     "relations",
     "subject index",
@@ -35,6 +36,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T10:34:17Z"
+      }
+    },
+    {
+      "description": "Referred to Community Affairs; Finance and Tax; Appropriations",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-10T01:08:31Z"
       }
     }
   ],
@@ -403,6 +416,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T10:34:17Z"
+    "logs_latest_update": "2025-12-10T01:08:31Z"
   }
 }

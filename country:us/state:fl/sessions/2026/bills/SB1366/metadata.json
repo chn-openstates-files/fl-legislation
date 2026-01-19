@@ -8,29 +8,25 @@
   ],
   "subject": [
     "and solicitations",
-    "civil practice and procedure",
     "civil rights",
     "criminal procedure and corrections",
     "industry",
-    "insurance",
     "judicial branch",
-    "k",
     "limitations",
     "military affairs and related matters",
     "motor vehicles",
-    "planning and development",
     "public business",
     "public health",
     "public lands and property",
     "public officers, employees, and records",
     "public transportation",
+    "railroads and other regulated utilities",
     "real and personal property",
     "reclamation, and use",
     "regulation of professions and occupations",
     "relations",
     "social welfare",
     "subject index",
-    "taxation and finance",
     "torts"
   ],
   "abstracts": [
@@ -53,6 +49,18 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:29:06Z"
       }
+    },
+    {
+      "description": "Referred to Judiciary; Appropriations; Rules",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -62,6 +70,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Brodeur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rouson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rouson\"}",
       "organization_id": null
     }
   ],
@@ -620,6 +636,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:29:06Z"
+    "logs_latest_update": "2026-01-19T12:32:00Z"
   }
 }

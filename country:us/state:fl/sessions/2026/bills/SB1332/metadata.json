@@ -31,6 +31,18 @@
       "_processing": {
         "log_file_created": "2026-01-09T12:29:06Z"
       }
+    },
+    {
+      "description": "Referred to Criminal Justice; Appropriations Committee on Criminal and Civil Justice; Fiscal Policy",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,6 +122,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:29:06Z"
+    "logs_latest_update": "2026-01-19T12:32:00Z"
   }
 }

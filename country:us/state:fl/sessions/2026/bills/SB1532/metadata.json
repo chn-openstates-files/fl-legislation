@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
-    "public business",
-    "railroads and other regulated utilities"
+    "railroads and other regulated utilities",
+    "reclamation, and use"
   ],
   "abstracts": [
     {
@@ -29,6 +29,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-11T12:26:19Z"
+      }
+    },
+    {
+      "description": "Referred to Regulated Industries; Appropriations Committee on Agriculture, Environment, and General Government; Fiscal Policy",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
       }
     }
   ],
@@ -125,6 +137,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-11T12:26:19Z"
+    "logs_latest_update": "2026-01-19T12:32:00Z"
   }
 }

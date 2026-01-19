@@ -130,6 +130,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Education Administration Subcommittee agenda",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -167,6 +177,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education Administration Subcommittee (Post-Meeting) (1/16/2026 4:47 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4027/Analyses/h4027b.EAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -184,6 +205,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-19T12:32:00Z"
   }
 }

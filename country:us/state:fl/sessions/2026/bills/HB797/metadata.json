@@ -135,6 +135,16 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Added to Civil Justice & Claims Subcommittee agenda",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
+      }
     }
   ],
   "sponsorships": [
@@ -167,6 +177,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/797/Analyses/h0797a.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Civil Justice & Claims Subcommittee (Post-Meeting) (1/17/2026 11:09 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/797/Analyses/h0797b.CIV.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -342,6 +363,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-19T12:32:00Z"
   }
 }

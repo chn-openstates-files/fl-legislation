@@ -7,15 +7,14 @@
     "bill"
   ],
   "subject": [
-    "civil practice and procedure",
     "crimes",
-    "criminal procedure and corrections",
     "domestic relations",
     "judicial branch",
     "motor vehicles",
     "public health",
     "real and personal property",
-    "relations"
+    "relations",
+    "subject index"
   ],
   "abstracts": [
     {
@@ -36,6 +35,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-09T12:29:06Z"
+      }
+    },
+    {
+      "description": "Referred to Judiciary; Appropriations Committee on Criminal and Civil Justice; Appropriations",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
       }
     }
   ],
@@ -308,6 +319,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-09T12:29:06Z"
+    "logs_latest_update": "2026-01-19T12:32:00Z"
   }
 }

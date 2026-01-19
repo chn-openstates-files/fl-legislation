@@ -116,9 +116,37 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Criminal and Civil Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Criminal and Civil Justice\"}"
+    },
     {
       "name": "Leek",
       "classification": "primary",
@@ -139,6 +167,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/156/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 156 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/156/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/156/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -174,6 +217,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/156/Analyses/2026s00156.pre.acj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Post-Meeting) (1/16/2026 3:16 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/156/Analyses/2026s00156.acj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -252,6 +306,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-19T12:32:00Z"
   }
 }

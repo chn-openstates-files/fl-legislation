@@ -8,6 +8,7 @@
   ],
   "subject": [
     "banks and banking",
+    "concurrent)",
     "subject index"
   ],
   "abstracts": [
@@ -29,6 +30,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-10T12:25:21Z"
+      }
+    },
+    {
+      "description": "Referred to Banking and Insurance; Appropriations Committee on Agriculture, Environment, and General Government; Rules",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
       }
     }
   ],
@@ -93,6 +106,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-10T12:25:21Z"
+    "logs_latest_update": "2026-01-19T12:32:00Z"
   }
 }

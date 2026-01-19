@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Housing;  Authorizing a landlord to accept reusable tenant screening reports and require a specified statement; defining the term \u201cprimary dwelling unit\u201d; requiring, rather than authorizing, local governments to adopt, by a specified date, an ordinance to allow accessory dwelling units in certain areas; requiring the Office of Program Policy Analysis and Government Accountability to evaluate the efficacy of using mezzanine finance and the potential of tiny homes for specified purposes, etc."
+      "abstract": "Housing;  Defining the terms \u201cby right\u201d and \u201cprimary dwelling unit\u201d; requiring, rather than authorizing, local governments to adopt, by a specified date, an ordinance to allow accessory dwelling units by right in certain areas; requiring the Office of Program Policy Analysis and Government Accountability to evaluate the efficacy of using mezzanine finance and the potential of tiny homes for specified purposes, etc."
     }
   ],
   "other_titles": [],
@@ -106,9 +106,37 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:12Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-19T12:32:00Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Transportation, Tourism, and Economic Development\"}"
+    },
     {
       "name": "Gaetz",
       "classification": "primary",
@@ -145,6 +173,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/48/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 48 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -187,6 +230,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (1/16/2026 12:06 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/48/Analyses/2026s00048.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "408564 - Amendment to S 48 Filed",
       "links": [
         {
@@ -202,7 +256,24 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "163.31771",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/163.31771"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "420.615",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/420.615"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/48/ByCategory",
@@ -217,6 +288,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:12Z"
+    "logs_latest_update": "2026-01-19T12:32:00Z"
   }
 }

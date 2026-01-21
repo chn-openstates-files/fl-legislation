@@ -64,6 +64,18 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Favorable by Regulated Industries; YEAS 7 NAYS 0",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -73,6 +85,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gruters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodriguez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodriguez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mayfield",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mayfield\"}",
       "organization_id": null
     }
   ],
@@ -163,6 +191,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:32Z"
   }
 }

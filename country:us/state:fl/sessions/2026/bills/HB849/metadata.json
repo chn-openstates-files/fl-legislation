@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 849",
-  "title": "Commissions within the Department of Law Enforcement",
+  "title": "Department of Law Enforcement",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Commissions within the Department of Law Enforcement;  Specifies that appointments & reappointments of members to Medical Examiners Commission are considered in force until certain conditions are met; requires commission to appoint district medical examiners by majority vote to fill vacancies; requires commission to appoint district medical examiners for medical examiner districts; requires physician members of commission to serve as district medical examiners upon approval by commission; requires Criminal Justice Professionalism Program to provide staff support to Criminal Justice Standards & Training Commission; requires commission to act independently of any criminal justice agency; requires commission to establish online initial & continued employment training component relating to diabetic emergencies, medical use of marijuana, autism spectrum disorder, & Alzheimer's disease & related forms of dementia."
+      "abstract": "Department of Law Enforcement;  Authorizes FDLE to adopt rules relating to Florida Medal of Valor & Florida Blue/Red Heart Medal programs; specifies that appointments & reappointments of members to Medical Examiners Commission are considered in force until certain conditions are met; requires commission to appoint district medical examiners for medical examiner districts; provides that physician members of commission are eligible to serve as district medical examiners upon approval by commission; requires Criminal Justice Professionalism Program to provide staff support to Criminal Justice Standards & Training Commission within department; requires commission to act independently of any criminal justice agency; provides manners of administrative complaint service by commission to law enforcement, correctional, & correctional probation officers; requires commission to establish online continued employment training components relating to diabetic emergencies, online initial training & continuing education courses relating to medical use of marijuana, continued employment training components relating to autism spectrum disorder, & online continued employment training components relating to Alzheimer's disease & related forms of dementia."
     }
   ],
   "other_titles": [],
@@ -99,9 +99,63 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Abbott",
       "classification": "primary",
@@ -123,10 +177,41 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 849 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/849/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (1/20/2026 6:23 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/849/Analyses/h0849.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "112.195",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/112.195"
+    },
     {
       "publication": "Florida Statues",
       "citation": "406.02",
@@ -206,6 +291,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:32Z"
   }
 }

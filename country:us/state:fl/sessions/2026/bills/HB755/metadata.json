@@ -8,12 +8,12 @@
   ],
   "subject": [
     "public lands and property",
-    "subject index"
+    "taxation and finance"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Areas of Critical State Concern;  Authorizes local governments to adopt ordinances to provide ad valorem tax exemption for certain portions of property used to provide affordable housing; specifies requirements & limitations for exemption; provides exemption from specified payment & performance bond requirements for specified entities; extends specific Florida Forever appropriations to be used for purchase of lands in Florida Keys Area of Critical State Concern."
+      "abstract": "Areas of Critical State Concern;  Provides exemption from specified payment & performance bond requirements for specified entities; extends specific Florida Forever appropriations to be used for purchase of lands in Florida Keys Area of Critical State Concern."
     }
   ],
   "other_titles": [],
@@ -111,9 +111,63 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Natural Resources & Disasters Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "Reported out of Natural Resources & Disasters Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Natural Resources & Disasters Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Natural Resources & Disasters Subcommittee\"}"
+    },
     {
       "name": "Mooney",
       "classification": "primary",
@@ -135,14 +189,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 755 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/755/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (1/15/2026 5:16 PM)",
+      "note": "Bill Analysis -- Natural Resources & Disasters Subcommittee (Post-Meeting) (1/20/2026 6:48 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/755/Analyses/h0755.NRD.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/755/Analyses/h0755a.NRD.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "619359 - Amendment to H 755 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/755/Amendment/619359/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -151,14 +227,6 @@
     }
   ],
   "citations": [
-    {
-      "publication": "Florida Statues",
-      "citation": "196.1978",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/196.1978"
-    },
     {
       "publication": "Florida Statues",
       "citation": "255.05",
@@ -190,6 +258,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:33Z"
   }
 }

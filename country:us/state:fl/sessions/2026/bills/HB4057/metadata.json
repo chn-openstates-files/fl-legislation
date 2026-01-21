@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 4057",
-  "title": "Town of Defuniak Springs, Walton County",
+  "title": "City of DeFuniak Springs, Walton County",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "subject index"
+    "local bills"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Town of Defuniak Springs, Walton County;  Transfers real property from Board of Trustees of Internal Improvement Trust Fund to Town Council of Town of DeFuniak Springs; provides requirements for use & sale or disposition of real property; requires conveyance of real property by specified date."
+      "abstract": "City of DeFuniak Springs, Walton County;  Transfers real property from Board of Trustees of Internal Improvement Trust Fund to City Council of City of DeFuniak Springs; provides description of real property; provides requirements for use & sale or disposition of real property; requires conveyance of real property by specified date."
     }
   ],
   "other_titles": [],
@@ -98,9 +98,63 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Intergovernmental Affairs Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Abbott",
       "classification": "primary",
@@ -122,9 +176,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 4057 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4057/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (1/20/2026 4:03 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4057/Analyses/h4057.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -140,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:32Z"
   }
 }

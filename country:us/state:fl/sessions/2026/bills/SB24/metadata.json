@@ -115,6 +115,28 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Favorable by Community Affairs; YEAS 8 NAYS 0",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -124,6 +146,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gruters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodriguez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodriguez\"}",
       "organization_id": null
     }
   ],
@@ -167,6 +197,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Special Master -- Community Affairs (1/20/2026 2:53 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/24/Analyses/2026s00024.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -184,6 +225,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:32Z"
   }
 }

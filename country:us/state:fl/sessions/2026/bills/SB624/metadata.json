@@ -95,6 +95,28 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:12Z"
       }
+    },
+    {
+      "description": "Favorable by Judiciary; YEAS 8 NAYS 2",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,6 +169,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Pre-Meeting) (1/16/2026 8:56 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/624/Analyses/2026s00624.pre.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Judiciary (Post-Meeting) (1/20/2026 12:08 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/624/Analyses/2026s00624.ju.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -173,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:12Z"
+    "logs_latest_update": "2026-01-21T12:32:32Z"
   }
 }

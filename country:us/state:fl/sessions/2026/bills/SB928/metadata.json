@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "CS by Criminal Justice; YEAS 8 NAYS 0",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -93,7 +103,34 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice (Pre-Meeting) (1/16/2026 3:16 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/928/Analyses/2026s00928.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "772258 - Amendment to S 928 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/928/Amendment/772258/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/928/Amendment/772258/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -109,6 +146,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:33Z"
   }
 }

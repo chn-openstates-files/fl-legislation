@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "CS by Education Pre-K - 12; YEAS 8 NAYS 0",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,6 +104,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Bill Analysis -- Education Pre-K - 12 (Pre-Meeting) (1/16/2026 1:19 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1136/Analyses/2026s01136.pre.ed.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "524620 - Amendment (Delete All) to S 1136 Filed",
       "links": [
@@ -142,6 +163,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:32Z"
   }
 }

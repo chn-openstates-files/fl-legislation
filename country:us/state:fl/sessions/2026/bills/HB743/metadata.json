@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Prohibited Sex-reassignment Prescriptions and Procedures;  Prohibits health care practitioner from aiding or abetting another in specified violation; authorizes Attorney General to conduct investigation & bring civil action against such health care practitioner; provides for damages, injunctive relief, & civil penalties; provides that any damages collected shall accrue to injured minor."
+      "abstract": "Prohibited Sex-reassignment Prescriptions and Procedures;  Prohibits health care practitioner from aiding or abetting another in specified violation; authorizes Attorney General to conduct investigation & bring civil action against health care practitioner; provides for damages, injunctive relief, & civil penalties; provides that any damages collected shall accrue to injured minor."
     }
   ],
   "other_titles": [],
@@ -99,9 +99,63 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Melo",
       "classification": "primary",
@@ -123,9 +177,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 743 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/743/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (1/20/2026 6:53 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/743/Analyses/h0743a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "195205 - Strike All Amendment to H 743 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/743/Amendment/195205/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -158,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:33Z"
   }
 }

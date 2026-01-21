@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Veterinary Medicine;  Increases amount of time for which prescriptions based solely on veterinary telehealth evaluation may be issued for certain drugs; revises membership of Board of Veterinary Medicine; provides requirements for veterinary professional associates, veterinary technicians, & veterinary technologists to receive certificates of registration from DBPR; requires department to make list of veterinary professional associate, veterinary technician, & veterinary technologist registrants publicly available on its website; authorizes department to suspend registration of veterinary professional associate, veterinary technician, or veterinary technologist; authorizes department to rescind registrations; prohibits person from holding himself or herself out as veterinary professional associate, veterinary technician, or veterinary technologist; provides powers and duties of veterinary professional associates, veterinary technicians, & veterinary technologists; provides that supervising licensed veterinarian is liable for any acts or omissions by certain persons under his or her supervision & control."
+      "abstract": "Veterinary Medicine;  Defines \"veterinary professional associate\"; increases amount of time for which prescriptions based solely on veterinary telehealth evaluation may be issued for certain drugs; revises applicability of certain exemptions; provides requirements for veterinary professional associates to receive certificates of registration from DBPR; requires department to make list of veterinary professional associate registrants publicly available on its website; authorizes department to suspend registration of veterinary professional associate upon certain determination by Board of Veterinary Medicine; authorizes department to rescind registration of veterinary professional associate; prohibits person from holding himself or herself out as veterinary professional associate; authorizes registered veterinary professional associate to engage in practice of veterinary medicine; prohibits registered veterinary professional associate from taking certain actions."
     }
   ],
   "other_titles": [],
@@ -86,9 +86,63 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Industries & Professional Activities Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Melo",
       "classification": "primary",
@@ -110,9 +164,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 805 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/805/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/16/2026 1:17 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/805/Analyses/h0805.IPA.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "666787 - Strike All Amendment to H 805 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/805/Amendment/666787/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -145,14 +233,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/474.203"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "474.204",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/474.204"
     }
   ],
   "sources": [
@@ -169,6 +249,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:32Z"
   }
 }

@@ -118,6 +118,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Education & Employment Committee agenda",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -152,6 +162,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Blanco\"}",
       "organization_id": null
+    },
+    {
+      "name": "Cobb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cobb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kendall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kendall\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -174,6 +200,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/127/Analyses/h0127a.SAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (1/20/2026 4:38 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/127/Analyses/h0127b.EEC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -205,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-21T12:32:32Z"
   }
 }

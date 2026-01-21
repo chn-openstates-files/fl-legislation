@@ -98,6 +98,18 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Careers & Workforce Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -107,6 +119,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Plakon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Plakon\"}",
       "organization_id": null
     }
   ],
@@ -135,6 +155,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "258311 - Amendment to H 1115 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1115/Amendment/258311/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -152,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:33Z"
   }
 }

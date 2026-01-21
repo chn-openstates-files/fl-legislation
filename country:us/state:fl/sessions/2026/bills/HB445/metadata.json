@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 445",
-  "title": "Mandatory Remand to Custody upon Conviction of Dangerous Crimes",
+  "title": "Dangerous Crimes",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Mandatory Remand to Custody upon Conviction of Dangerous Crimes;  Requires court to remand person found guilty of dangerous crime to custody immediately; requires such person to remain in custody pending sentencing or further proceedings without possibility of release on bond; prohibits court from granting postconviction bond or other release for person found guilty of dangerous crime."
+      "abstract": "Dangerous Crimes;  Requires court to remand person found guilty of dangerous crime to custody immediately; requires such person to remain in custody pending sentencing or further proceedings without possibility of release on bond; prohibits court from granting postconviction bond or other release for person found guilty of dangerous crime; provides applicability; revises definition of \"dangerous crime.\""
     }
   ],
   "other_titles": [],
@@ -98,15 +98,77 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Criminal Justice Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "Reported out of Criminal Justice Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice Subcommittee\"}"
+    },
     {
       "name": "Greco",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Greco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kincart Jonsson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kincart Jonsson\"}",
       "organization_id": null
     }
   ],
@@ -122,9 +184,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 445 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/445/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Criminal Justice Subcommittee (Post-Meeting) (1/20/2026 7:04 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/445/Analyses/h0445a.CRM.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -140,6 +225,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:33Z"
   }
 }

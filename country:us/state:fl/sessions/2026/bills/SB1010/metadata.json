@@ -64,6 +64,16 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs; YEAS 5 NAYS 1",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -94,7 +104,45 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Pre-Meeting) (1/16/2026 9:44 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1010/Analyses/2026s01010.pre.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (1/20/2026 1:25 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1010/Analyses/2026s01010.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "235940 - Amendment to S 1010 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1010/Amendment/235940/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1010/Amendment/235940/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -135,6 +183,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:32Z"
   }
 }

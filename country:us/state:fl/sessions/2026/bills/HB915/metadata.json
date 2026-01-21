@@ -98,6 +98,18 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Human Services Subcommittee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -116,6 +128,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Campbell\"}",
       "organization_id": null
+    },
+    {
+      "name": "Woodson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Woodson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -132,7 +152,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Human Services Subcommittee (Post-Meeting) (1/20/2026 9:57 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/915/Analyses/h0915.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "396009 - Amendment to H 915 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/915/Amendment/396009/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -148,6 +191,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:33Z"
   }
 }

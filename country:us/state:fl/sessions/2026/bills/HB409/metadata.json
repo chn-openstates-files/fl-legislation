@@ -118,6 +118,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to Education & Employment Committee agenda",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -135,6 +145,30 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Barnaby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Basabe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Basabe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Holcomb",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Holcomb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nix",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nix\"}",
       "organization_id": null
     }
   ],
@@ -158,6 +192,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/409/Analyses/h0409a.EAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (1/20/2026 4:43 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/409/Analyses/h0409b.EEC.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -189,6 +234,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-01-21T12:32:33Z"
   }
 }

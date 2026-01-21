@@ -167,6 +167,16 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "Added to Judiciary Committee agenda",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:32Z"
+      }
     }
   ],
   "sponsorships": [
@@ -257,6 +267,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Judiciary Committee (Post-Meeting) (1/20/2026 4:43 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/429/Analyses/h0429b.JDC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "341101 - Strike All Amendment to H 429 Filed",
       "links": [
         {
@@ -316,6 +337,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-21T12:32:32Z"
   }
 }

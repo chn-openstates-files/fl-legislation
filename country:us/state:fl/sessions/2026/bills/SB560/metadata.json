@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Child Welfare;  Providing that a new medical report relating to the provision of psychotropic medication to a child in the legal custody of the Department of Children and Families may be required only under certain circumstances; revising qualifications for persons who may serve as qualified evaluators for a certain purpose; requiring a physician to provide to a pharmacy a copy of certain documentation, rather than a signed attestation, with certain prescriptions, etc."
+      "abstract": "Child Welfare;  Providing that a new medical report relating to the provision of psychotropic medication to a child in the legal custody of the Department of Children and Families may be required only under certain circumstances; increasing the maximum age of eligibility for certain postsecondary education services and support; revising the requirements for a renewal award of postsecondary education services and support; requiring the inclusion of specific metrics for measuring outcomes and performance of postsecondary education services and support and aftercare services in a certain annual report; requiring a physician to provide to a pharmacy a copy of certain documentation, rather than a signed attestation, with certain prescriptions, etc."
     }
   ],
   "other_titles": [],
@@ -64,9 +64,37 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "CS by Children, Families, and Elder Affairs; YEAS 6 NAYS 0",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Children, Families, and Elder Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Children, Families, and Elder Affairs\"}"
+    },
     {
       "name": "Garcia",
       "classification": "primary",
@@ -92,9 +120,77 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 560 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Pre-Meeting) (1/20/2026 2:22 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/Analyses/2026s00560.pre.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Children, Families, and Elder Affairs (Post-Meeting) (1/20/2026 12:30 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/Analyses/2026s00560.cf.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "964050 - Amendment to S 560 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/Amendment/964050/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/Amendment/964050/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "701698 - Amendment to Amendment (964050) to S 560 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/Amendment/701698/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/560/Amendment/701698/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -103,6 +199,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/39.407"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "409.1451",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/409.1451"
     },
     {
       "publication": "Florida Statues",
@@ -135,6 +239,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-01-21T12:32:33Z"
   }
 }

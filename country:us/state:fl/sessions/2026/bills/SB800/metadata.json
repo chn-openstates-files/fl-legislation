@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:12Z"
       }
+    },
+    {
+      "description": "CS by Regulated Industries; YEAS 7 NAYS 0",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-21T12:32:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -104,6 +114,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "209924 - Amendment to S 800 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/800/Amendment/209924/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/800/Amendment/209924/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -130,6 +155,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:12Z"
+    "logs_latest_update": "2026-01-21T12:32:33Z"
   }
 }

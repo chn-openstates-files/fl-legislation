@@ -8,7 +8,6 @@
   ],
   "subject": [
     "concurrent)",
-    "municipalities",
     "relations",
     "subject index"
   ],
@@ -113,6 +112,26 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:33Z"
       }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Now in Intergovernmental Affairs Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,10 +168,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/16/2026 1:32 PM)",
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/21/2026 3:50 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/929/Analyses/h0929.IPA.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/929/Analyses/h0929a.IPA.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -175,6 +194,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:33Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

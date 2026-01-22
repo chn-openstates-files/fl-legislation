@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "subject index"
+    "social welfare"
   ],
   "abstracts": [
     {
@@ -95,6 +95,28 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "Favorable by Appropriations Committee on Transportation, Tourism, and Economic Development; YEAS 14 NAYS 0",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -104,6 +126,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Burton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arrington",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arrington\"}",
       "organization_id": null
     }
   ],
@@ -142,6 +172,28 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/594/Analyses/2026s00594.ca.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Pre-Meeting) (1/20/2026 11:12 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/594/Analyses/2026s00594.pre.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (1/21/2026 2:04 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/594/Analyses/2026s00594.atd.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -189,6 +241,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

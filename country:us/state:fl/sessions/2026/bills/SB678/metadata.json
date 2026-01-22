@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Deductions for Certain Losses of Alcoholic Beverages;  Authorizing deductions against excise taxes for alcoholic beverages if they are unsalable; authorizing a distributor of vinous, spirituous, or malted beverages to make an excise tax deduction in its monthly tax report for alcoholic beverages that have become unsalable through warehouse breakage, spoliation, evaporation, or expiration or that have become unfit for human consumption; requiring distributors that distribute more than one type of alcoholic beverage to deduct their gross taxes for products according to those specified for vinous, spirituous, or malt beverages, etc."
+      "abstract": "Deductions for Certain Losses of Alcoholic Beverages;  Authorizing a distributor of vinous, spirituous, or malt beverages to make an excise tax deduction in its monthly tax report for alcoholic beverages that have become unsellable through warehouse breakage, spoliation, evaporation, or expiration or that have become unfit for human consumption; requiring distributors that distribute more than one type of alcoholic beverage to deduct their gross taxes for products according to those specified in a specified manner; requiring a distributor to immediately notify the Division of Alcoholic Beverages and Tobacco when an extraordinary loss occurs, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,27 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Regulated Industries",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Regulated Industries\"}"
+    },
     {
       "name": "Mayfield",
       "classification": "primary",
@@ -109,6 +127,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 678 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/678/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/678/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -117,6 +150,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/678/Analyses/2026s00678.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (1/21/2026 9:56 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/678/Analyses/2026s00678.ri.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -154,6 +198,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

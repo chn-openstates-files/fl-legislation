@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Transportation Facility Designations;  Provides honorary designation of certain transportation facility in specified county; directs DOT to erect suitable markers."
+      "abstract": "Transportation Facility Designations;  Provides honorary designations of certain transportation facilities in specified counties; directs DOT to erect suitable markers."
     }
   ],
   "other_titles": [],
@@ -98,9 +98,63 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:33Z"
       }
+    },
+    {
+      "description": "Reported out of Economic Infrastructure Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Economic Infrastructure Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Economic Infrastructure Subcommittee\"}"
+    },
     {
       "name": "Daniels",
       "classification": "primary",
@@ -117,6 +171,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/25/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H 25 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/25/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -163,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:33Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

@@ -8,12 +8,12 @@
   ],
   "subject": [
     "aviation",
-    "subject index"
+    "real and personal property"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Spaceport Operations;  Requires Space Florida to enhance & promote development & use of quintimodal transportation hubs in this state; provides powers & duties of spaceport operators; revises composition of Space Florida board of directors."
+      "abstract": "Spaceport Operations;  Requires Space Florida to enhance & promote development & use of quintimodal transportation hubs in this state; provides powers & duties of spaceport operators."
     }
   ],
   "other_titles": [],
@@ -111,9 +111,51 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Reported out of Economic Infrastructure Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Economic Infrastructure Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Economic Infrastructure Subcommittee\"}"
+    },
     {
       "name": "Kendall",
       "classification": "primary",
@@ -143,14 +185,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 335 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/335/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (1/17/2026 5:39 PM)",
+      "note": "Bill Analysis -- Economic Infrastructure Subcommittee (Post-Meeting) (1/21/2026 5:26 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/335/Analyses/h0335.EIS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/335/Analyses/h0335a.EIS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -209,6 +262,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

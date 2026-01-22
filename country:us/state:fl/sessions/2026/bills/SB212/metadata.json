@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "concurrent)",
     "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Sexual Offenders and Sexual Predators;  Revising residency restrictions for persons convicted of certain sexual offenses; revising requirements for a search of sexual predator or sexual offender registration information by a state agency or governmental subdivision before appointing or employing a person to work; revising special conditions for certain sexual offenders subject to conditional release supervision; revising standard conditions of probation or community control for certain sexual offenders, etc."
+      "abstract": "Sexual Offenders and Sexual Predators;  Defining the terms \u201cpublic bathing place\u201d and \u201cpublic swimming pool\u201d; prohibiting persons convicted of certain sexual offenses from visiting or otherwise being within 200 feet of specified locations; requiring a sexual offender or sexual predator to notify a school or child care facility of his or her status in certain circumstances; authorizing the warrantless arrest of a person if a law enforcement officer has probable cause to believe the person visited or was within 200 feet of specified prohibited locations after he or she was previously convicted of committing specified sexual offenses against a victim younger than 16 years of age, etc."
     }
   ],
   "other_titles": [],
@@ -74,9 +73,27 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:33Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "McClain",
       "classification": "primary",
@@ -102,6 +119,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 212 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/212/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/212/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -110,6 +142,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/212/Analyses/2026s00212.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (1/21/2026 11:24 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/212/Analyses/2026s00212.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -135,59 +178,11 @@
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "514.011",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/514.011"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "775.215",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/775.215"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "943.04351",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/943.04351"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "947.005",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/947.005"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "947.1405",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/947.1405"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "948.001",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/948.001"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "948.30",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/948.30"
     }
   ],
   "sources": [
@@ -204,6 +199,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:33Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

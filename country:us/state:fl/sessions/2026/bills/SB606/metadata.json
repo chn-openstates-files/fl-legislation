@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "public health"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -73,9 +73,27 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Policy\"}"
+    },
     {
       "name": "Smith",
       "classification": "primary",
@@ -125,6 +143,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 606 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/606/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/606/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -133,6 +166,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/606/Analyses/2026s00606.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Policy (Post-Meeting) (1/21/2026 10:08 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/606/Analyses/2026s00606.hp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -179,6 +223,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

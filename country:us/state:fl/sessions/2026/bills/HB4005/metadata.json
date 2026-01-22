@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "City of Naples Airport Authority, Collier County;  Provides for City of Naples Airport Authority memberships by election rather than by appointment; removes provisions relating to authority members' duties & responsibilities; removes provisions that prohibit officers and employees of the city from being authority members; removes provisions that prohibit authority members from receiving compensation."
+      "abstract": "City of Naples Airport Authority, Collier County;  Removes provisions relating to City of Naples Airport Authority's members' duties & responsibilities; removes provisions that prohibit officers & employees of city from being authority members; removes provisions that prohibit authority members from receiving compensation; provides for authority memberships by election rather than by appointment; provides requirements for elections; provides authority membership terms & qualifications; provides interim services & vacancy fillings."
     }
   ],
   "other_titles": [],
@@ -150,9 +150,63 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Government Operations Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Government Operations Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Government Operations Subcommittee\"}"
+    },
     {
       "name": "Botana",
       "classification": "primary",
@@ -174,6 +228,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 4005 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4005/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -189,10 +254,21 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (1/16/2026 6:23 PM)",
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (1/21/2026 7:26 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/4005/Analyses/h4005c.GOS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/4005/Analyses/h4005d.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "393579 - Amendment to H 4005 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4005/Amendment/393579/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -215,6 +291,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

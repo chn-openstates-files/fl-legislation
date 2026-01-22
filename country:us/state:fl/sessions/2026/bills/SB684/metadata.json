@@ -75,6 +75,16 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Now in Banking and Insurance",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -107,7 +117,18 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Transportation (Post-Meeting) (1/20/2026 12:45 PM)",
+      "note": "Bill Analysis -- Transportation (Pre-Meeting) (1/21/2026 4:47 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/684/Analyses/2026s00684.pre.tr.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Transportation (Post-Meeting) (1/21/2026 4:25 PM)",
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/684/Analyses/2026s00684.tr.PDF",
@@ -142,6 +163,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

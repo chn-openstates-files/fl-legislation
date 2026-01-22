@@ -8,12 +8,12 @@
   ],
   "subject": [
     "public business",
-    "torts"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Cybersecurity Standards and Liability;  Authorizes local governments to only adopt specified cybersecurity standards; prohibits DMS from delegating authority to set such standards to local governments; requires vendors to comply with specified cybersecurity standards; defines \"vendor\"; provides that local government, covered entity, or third-party agent that complies with certain requirements is not liable in connection with cybersecurity incident; requires covered entities & third-party agents to implement revised frameworks, standards, laws, or regulations within specified time period."
+      "abstract": "Cybersecurity Standards and Liability;  Prohibits local governments from imposing certain cybersecurity standards or processes on vendors; defines \"vendor\"; prohibits local governments from adopting or enforcing certain cybersecurity standards or processes; provides that local government, covered entity, or third-party agent that complies with certain requirements is not liable in connection with cybersecurity incident; requires covered entities & third-party agents to implement revised frameworks, standards, laws, or regulations."
     }
   ],
   "other_titles": [],
@@ -111,9 +111,51 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Reported out of Information Technology Budget & Policy Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Information Technology Budget & Policy Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Information Technology Budget & Policy Subcommittee\"}"
+    },
     {
       "name": "Giallombardo",
       "classification": "primary",
@@ -135,14 +177,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 635 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/635/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Information Technology Budget & Policy Subcommittee (Post-Meeting) (1/15/2026 5:46 PM)",
+      "note": "Bill Analysis -- Information Technology Budget & Policy Subcommittee (Post-Meeting) (1/21/2026 3:20 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/635/Analyses/h0635.ITP.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/635/Analyses/h0635a.ITP.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -185,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

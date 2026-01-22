@@ -1,19 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 890",
-  "title": "Battery by Strangulation",
+  "title": "Felony Battery",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
     "crimes",
-    "criminal procedure and corrections"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Battery by Strangulation;  Revising the elements of the offense of domestic battery by strangulation; creating the offense of battery by strangulation; providing criminal penalties; deleting the definitions of the terms \u201cfamily or household member\u201d and \u201cdating relationship\u201d, etc."
+      "abstract": "Felony Battery;  Revising the elements of the offense of battery by strangulation to delete creating a risk of or causing great bodily harm to another; revising the elements of the offense of domestic battery by strangulation to delete creating a risk of or causing great bodily harm to another; reclassifying the offense of battery by strangulation for the purposes of the offense severity ranking chart of the Criminal Punishment Code, etc."
     }
   ],
   "other_titles": [],
@@ -74,9 +74,27 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Martin",
       "classification": "primary",
@@ -102,6 +120,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 890 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/890/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/890/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -110,6 +143,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/890/Analyses/2026s00890.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (1/21/2026 11:23 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/890/Analyses/2026s00890.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -135,6 +179,14 @@
   "citations": [
     {
       "publication": "Florida Statues",
+      "citation": "784.031",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/784.031"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "784.041",
       "citation_type": "proposed",
       "effective": null,
@@ -148,14 +200,6 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/921.0022"
-    },
-    {
-      "publication": "Florida Statues",
-      "citation": "943.0584",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/943.0584"
     }
   ],
   "sources": [
@@ -172,6 +216,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

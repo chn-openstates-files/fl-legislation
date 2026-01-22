@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "regulation of professions and occupations",
-    "torts"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Enforcement of Protections for Minors;  Providing criminal penalties for health care practitioners who willfully or actively aid or abet another in a violation of specified provisions; authorizing the Attorney General to conduct investigations of alleged violations of a specified provision and commence a civil action for damages, injunctive relief, and civil penalties upon determining a violation has occurred; creating a cause of action to recover damages against certain public employees and health care practitioners for violations of specified provisions, etc."
+      "abstract": "Enforcement of Protections for Minors;  Providing criminal penalties for health care practitioners who willfully or actively aid or abet another in a violation of specified provisions; clarifying that a private cause of action exists to recover damages for personal injury or death resulting from a violation of a specified provision; providing that an individual may recover all economic and noneconomic damages for injuries sustained before or after turning 18 years of age which result from such violation; creating a private cause of action to recover damages against certain public employees and health care practitioners for violations of specified provisions, etc."
     }
   ],
   "other_titles": [],
@@ -74,9 +73,27 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Children, Families, and Elder Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Children, Families, and Elder Affairs\"}"
+    },
     {
       "name": "Yarborough",
       "classification": "primary",
@@ -97,6 +114,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1010/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1010 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1010/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1010/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -183,6 +215,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

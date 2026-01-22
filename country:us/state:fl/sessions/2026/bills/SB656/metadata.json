@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index",
-    "t"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Internet Crimes Against Children Programs;  Renaming the Online Sting Operations Grant Program created within the Department of Law Enforcement as the Internet Crimes Against Children Grant Program; revising the purpose of the grant program; creating the Internet Crimes Against Children Task Force Funding Program within the Department of Law Enforcement, etc."
+      "abstract": "Internet Crimes Against Children Programs;  Renaming the Online Sting Operations Grant Program created within the Department of Law Enforcement as the Internet Crimes Against Children Grant Program; revising the purpose of the grant program; revising the authorized uses for grant program funds; creating the Internet Crimes Against Children Task Force Funding Program within the Department of Law Enforcement, etc."
     }
   ],
   "other_titles": [],
@@ -74,9 +73,27 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Criminal Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Criminal Justice\"}"
+    },
     {
       "name": "Bradley",
       "classification": "primary",
@@ -102,6 +119,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 656 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/656/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/656/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -110,6 +142,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/656/Analyses/2026s00656.pre.cj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Criminal Justice (Post-Meeting) (1/21/2026 11:24 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/656/Analyses/2026s00656.cj.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -156,6 +199,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

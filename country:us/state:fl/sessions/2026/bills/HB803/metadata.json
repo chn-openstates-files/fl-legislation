@@ -1,21 +1,20 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 803",
-  "title": "Building Permits and Inspections",
+  "title": "Building Permits and Inspection",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "and solicitations",
     "real and personal property",
-    "regulation of professions and occupations",
-    "relations"
+    "relations",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Building Permits and Inspections;  Revises provisions relating to building code inspection services provided by private provider & private provider firms, including agreement requirements, permit fees, administrative fees, responsibilities of private providers, permitting & inspection documents & reports, timeframes for issuing permits, authority of local building official, notices of incomplete forms, duly authorized representatives, authority of private providers acting as local building official, emergency inspection services, creation of certain forms, systems of registration, audits, immunity, civil causes of action, posting of permits on specified websites, & adoption of a uniformed permitting system."
+      "abstract": "Building Permits and Inspection;  Provides for expiration of certain building permits issued by county & local government; provides that under certain circumstances certain persons are not subject to discipline for performing job without applicable permits & inspections; prohibits local governments from requiring building permit for installation of certain walls or barriers; revises provisions relating to building code inspection services provided by private provider & private provider firms, including permit & administrative fees, responsibilities of private providers, permitting & inspection documents & reports, timeframes for issuing permits & notices, authority of local building official, notices of incomplete forms, authority of private providers acting as local building official, emergency inspection services, creation of uniform forms, audits, immunity, civil causes of action, posting of permits on specified websites, & adoption of specified registration system; requires Florida Building Commission to develop uniform commercial & residential building permit applications; prohibits association or certain committees from requiring building permit as prerequisite for certain review."
     }
   ],
   "other_titles": [],
@@ -113,9 +112,63 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Trabulsy",
       "classification": "primary",
@@ -153,14 +206,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 803 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/803/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/16/2026 1:22 PM)",
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/21/2026 3:50 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/803/Analyses/h0803.IPA.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/803/Analyses/h0803a.IPA.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -198,11 +262,11 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "553.73",
+      "citation": "553.77",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/553.73"
+      "url": "https://flsenate.gov/laws/statutes/2025/553.77"
     },
     {
       "publication": "Florida Statues",
@@ -251,6 +315,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

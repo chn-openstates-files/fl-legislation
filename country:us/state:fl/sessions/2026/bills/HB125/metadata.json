@@ -86,9 +86,63 @@
       "_processing": {
         "log_file_created": "2026-01-19T12:32:00Z"
       }
+    },
+    {
+      "description": "Favorable with CS by Government Operations Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Government Operations Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Government Operations Subcommittee\"}"
+    },
     {
       "name": "Benarroch",
       "classification": "primary",
@@ -314,6 +368,14 @@
       "organization_id": null
     },
     {
+      "name": "Tramont",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tramont\"}",
+      "organization_id": null
+    },
+    {
       "name": "Yeager",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -334,14 +396,36 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 125 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/125/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (1/16/2026 6:28 PM)",
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (1/21/2026 5:26 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/125/Analyses/h0125.GOS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/125/Analyses/h0125a.GOS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "373747 - Amendment to H 125 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/125/Amendment/373747/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -364,6 +448,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-19T12:32:00Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

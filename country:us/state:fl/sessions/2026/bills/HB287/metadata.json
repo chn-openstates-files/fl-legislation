@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 287",
-  "title": "Pub. Rec./Owners and Operators of Family Foster Homes",
+  "title": "Pub. Rec./Applicants, Owners, and Operators of Family Foster Homes and References of Such Persons",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Pub. Rec./Owners and Operators of Family Foster Homes;  Provides exemption from public records requirements for personal identifying & location information of current & former owners & operators of family foster homes & names & personal identifying & location information of spouses & children of such owners & operators; provides for future legislative review & repeal of exemption; provides statement of public necessity."
+      "abstract": "Pub. Rec./Applicants, Owners, and Operators of Family Foster Homes and References of Such Persons;  Provides confidentiality & exemption from public records requirements for personal identifying & location information of applicants for family foster homes & current & former owners & operators of family foster homes, & names & personal identifying & location information of spouses, children, & other adult household members of such applicants, owners, or operators; provides confidentiality & exemption from public records requirements for personal identifying & location information of character or neighbor references of family foster home applicant or current or former owner or operator of family foster home; provides for future legislative review & repeal of exemption; provides statement of public necessity."
     }
   ],
   "other_titles": [],
@@ -110,9 +110,63 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Reported out of Human Services Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "1st Reading (Committee Substitute 1)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Human Services Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Human Services Subcommittee\"}"
+    },
     {
       "name": "McFarland",
       "classification": "primary",
@@ -142,17 +196,40 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 287 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/287/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Human Services Subcommittee (Post-Meeting) (1/21/2026 9:34 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/287/Analyses/h0287.HSS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "119.071",
+      "citation": "409.175",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/119.071"
+      "url": "https://flsenate.gov/laws/statutes/2025/409.175"
     }
   ],
   "sources": [
@@ -169,6 +246,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

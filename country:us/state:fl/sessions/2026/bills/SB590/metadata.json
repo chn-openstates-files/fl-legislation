@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Statute of Limitations Period for Violations Involving Required Reports Concerning Children;  Providing that the limitations period for offenses concerning specified required reports about children does not begin to run until a law enforcement agency is made aware of the violation, etc."
+      "abstract": "Statute of Limitations Period for Violations Involving Required Reports Concerning Children;  Providing that the period of limitation for offenses related to specified required reports concerning children does not begin to run until a law enforcement agency is made aware of the violation, etc."
     }
   ],
   "other_titles": [],
@@ -105,9 +105,27 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Children, Families, and Elder Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Children, Families, and Elder Affairs\"}"
+    },
     {
       "name": "Bradley",
       "classification": "primary",
@@ -128,6 +146,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/590/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 590 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/590/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/590/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -220,6 +253,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

@@ -1,18 +1,18 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 340",
-  "title": "Human Trafficking Training for Nursing Students",
+  "title": "Human Trafficking Education for Nurse Licensure",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "regulation of professions and occupations"
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Human Trafficking Training for Nursing Students;  Requiring nursing education programs to include a course on human trafficking meeting specified criteria as part of their core curriculum; requiring that the course be approved by the Board of Nursing; requiring the board, in coordination with the Department of Health, to oversee implementation and enforcement of the new education requirements, etc."
+      "abstract": "Human Trafficking Education for Nurse Licensure;  Revising requirements for initial licensure as a registered nurse or licensed practical nurse, beginning on a specified date, to include completion of a certain course on human trafficking, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,27 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Policy",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Policy\"}"
+    },
     {
       "name": "Harrell",
       "classification": "primary",
@@ -109,6 +127,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 340 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/340/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/340/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -117,6 +150,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/340/Analyses/2026s00340.pre.hp.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Health Policy (Post-Meeting) (1/21/2026 10:08 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/340/Analyses/2026s00340.hp.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -142,11 +186,11 @@
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "464.019",
+      "citation": "464.008",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/464.019"
+      "url": "https://flsenate.gov/laws/statutes/2025/464.008"
     }
   ],
   "sources": [
@@ -163,6 +207,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

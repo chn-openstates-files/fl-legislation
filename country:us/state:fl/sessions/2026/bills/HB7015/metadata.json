@@ -8,7 +8,6 @@
   ],
   "subject": [
     "concurrent)",
-    "public business",
     "subject index"
   ],
   "abstracts": [
@@ -100,6 +99,26 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -136,10 +155,10 @@
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/16/2026 1:22 PM)",
+      "note": "Bill Analysis -- Industries & Professional Activities Subcommittee (Post-Meeting) (1/21/2026 8:39 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/7015/Analyses/h7015.IPA.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/7015/Analyses/h7015a.IPA.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -179,6 +198,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

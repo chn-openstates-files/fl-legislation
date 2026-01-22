@@ -76,6 +76,16 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
@@ -128,6 +138,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/986/Analyses/2026s00986.pre.ri.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Regulated Industries (Post-Meeting) (1/21/2026 9:56 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/986/Analyses/2026s00986.ri.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -191,6 +212,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

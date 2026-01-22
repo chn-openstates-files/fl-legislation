@@ -73,9 +73,27 @@
       "_processing": {
         "log_file_created": "2026-01-21T12:32:32Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:31:40Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Environment and Natural Resources",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Environment and Natural Resources\"}"
+    },
     {
       "name": "Harrell",
       "classification": "primary",
@@ -101,6 +119,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1288 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1288/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1288/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +142,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1288/Analyses/2026s01288.pre.en.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Environment and Natural Resources (Post-Meeting) (1/21/2026 7:49 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1288/Analyses/2026s01288.en.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -146,6 +190,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-21T12:32:32Z"
+    "logs_latest_update": "2026-01-22T12:31:40Z"
   }
 }

@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Technology Education;  Revising general education core course standards for public postsecondary educational institutions to include technology courses, etc."
+      "abstract": "Technology Education;  Providing requirements for general education core courses with a technology component; requiring high school computer science courses to include instruction on artificial intelligence, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +73,37 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Higher Education",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Education Postsecondary",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Education Postsecondary\"}"
+    },
     {
       "name": "Avila",
       "classification": "primary",
@@ -101,6 +129,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1694 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1694/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1694/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +152,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1694/Analyses/2026s01694.pre.he.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Education Postsecondary (Post-Meeting) (2/6/2026 10:26 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1694/Analyses/2026s01694.he.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -139,6 +193,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/1007.25"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "1007.2616",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/1007.2616"
     }
   ],
   "sources": [
@@ -155,6 +217,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

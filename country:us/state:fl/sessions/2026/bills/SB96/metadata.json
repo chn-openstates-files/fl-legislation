@@ -7,13 +7,12 @@
     "bill"
   ],
   "subject": [
-    "subject index",
     "veterans"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Veterans Dental Care Grant Program;  Revising the purpose of the Veterans Dental Care Grant Program, etc.\r\n    \r\n        APPROPRIATION:\r\n        $500,000"
+      "abstract": "Veterans Dental Care Grant Program;  Revising the purpose of the Veterans Dental Care Grant Program, etc."
     }
   ],
   "other_titles": [],
@@ -144,9 +143,27 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Health and Human Services",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Health and Human Services\"}"
+    },
     {
       "name": "Military and Veterans Affairs, Space, and Domestic Security",
       "classification": "primary",
@@ -211,6 +228,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 96 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/96/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/96/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -241,6 +273,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/96/Analyses/2026s00096.pre.ahs.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Health and Human Services (Post-Meeting) (2/6/2026 4:33 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/96/Analyses/2026s00096.ahs.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -287,6 +330,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

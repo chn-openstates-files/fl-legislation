@@ -166,6 +166,16 @@
       "_processing": {
         "log_file_created": "2026-01-15T12:29:13Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -232,6 +242,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/6/2026 5:02 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/91/Analyses/h0091b.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "556667 - Amendment to H 91 Filed",
       "links": [
         {
@@ -267,6 +288,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-15T12:29:13Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

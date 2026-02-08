@@ -7,8 +7,8 @@
     "bill"
   ],
   "subject": [
+    "(adopted)",
     "construction of statutes",
-    "local bills",
     "subject index"
   ],
   "abstracts": [
@@ -54,6 +54,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Health Policy, 02/11/26, 3:00 pm, 412 Knott Building",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
       }
     }
   ],
@@ -126,6 +136,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

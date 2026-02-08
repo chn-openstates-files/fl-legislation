@@ -7,7 +7,7 @@
     "bill"
   ],
   "subject": [
-    "local bills"
+    "subject index"
   ],
   "abstracts": [
     {
@@ -172,6 +172,16 @@
       "_processing": {
         "log_file_created": "2026-02-04T12:39:55Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -220,6 +230,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/6/2026 6:12 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4067/Analyses/h4067d.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -237,6 +258,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-04T12:39:55Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

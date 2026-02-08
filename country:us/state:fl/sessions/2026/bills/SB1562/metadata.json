@@ -63,6 +63,18 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Commerce and Tourism, 02/11/26, 9:00 am, 110 Senate Building --If Received",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -118,6 +130,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

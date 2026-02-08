@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Tributaries of the St. Johns River;  Citing this act as the \"Northeast Florida Rivers, Springs, and Community Investment Act\"; requiring the Department of Environmental Protection, by a specified date, to hire a project lead to oversee the implementation of the act; requiring the department to develop, by a specified date, a project plan for the restoration of the Ocklawaha River; providing that the project plan is an environmental restoration or enhancement project subject to a general permit from the department and water management districts; creating the Northeast Florida River and Springs Recreation and Economic Development Advisory Council, etc."
+      "abstract": "Tributaries of the St. Johns River;  Citing this act as the \"Northeast Florida Rivers, Springs, and Community Investment Act\"; requiring the Department of Environmental Protection, by a specified date, to hire a project lead to oversee the implementation of the act; requiring the department to develop, by a specified date, a project plan for the restoration of the Ocklawaha River; providing that the project plan is an environmental restoration or enhancement project subject to a general permit from the department and water management districts; providing for the creation of the Northeast Florida River and Springs Recreation and Economic Development Advisory Council by a specified date, etc."
     }
   ],
   "other_titles": [],
@@ -123,9 +123,37 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Agriculture, Environment, and General Government",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Agriculture, Environment, and General Government\"}"
+    },
     {
       "name": "Environment and Natural Resources",
       "classification": "primary",
@@ -174,6 +202,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1066 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1066/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1066/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -211,6 +254,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Post-Meeting) (2/6/2026 3:50 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1066/Analyses/2026s01066.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "493514 - Amendment to S 1066 Filed",
       "links": [
         {
@@ -241,6 +295,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

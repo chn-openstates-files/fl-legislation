@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "HB 989",
-  "title": "Motor Vehicle Manufacturers and Franchised Motor Vehicle Dealers",
+  "title": "Motor Vehicle Manufacturers, Importers, and Distributors and Franchised Motor Vehicle Dealers",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Motor Vehicle Manufacturers and Franchised Motor Vehicle Dealers;  Prohibits applicant or licensee from establishing monopolistic dealer body."
+      "abstract": "Motor Vehicle Manufacturers, Importers, and Distributors and Franchised Motor Vehicle Dealers;  Authorizes licensee to reject ownership succession of motor vehicle dealer if such succession will cause violation of certain provisions; clarifies what motor vehicles licensee must repurchase from motor vehicle dealer upon termination of franchise agreement; provides that licensee who distributes 1,000 or more motor vehicles of particular line-make to motor vehicle dealers in this state during any 12-month period must have established network of at least three independent motor vehicle dealers in this state; authorizes licensee to reject proposed change in ownership if such change would cause violation of certain provisions."
     }
   ],
   "other_titles": [],
@@ -98,9 +98,51 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Industries & Professional Activities Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Industries & Professional Activities Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Industries & Professional Activities Subcommittee\"}"
+    },
     {
       "name": "Yeager",
       "classification": "primary",
@@ -122,6 +164,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 989 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/989/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -133,6 +186,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/320.64"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "320.643",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/320.643"
     }
   ],
   "sources": [
@@ -149,6 +210,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

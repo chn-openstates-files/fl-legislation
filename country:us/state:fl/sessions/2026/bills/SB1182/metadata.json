@@ -55,13 +55,23 @@
       }
     },
     {
-      "description": "On Committee agenda-- Military and Veterans Affairs, Space, and Domestic Security, 02/02/26, 3:30 pm, 301 Senate Building",
+      "description": "On Committee agenda-- Military and Veterans Affairs, Space, and Domestic Security, 02/02/26, 3:30 pm, 301 Senate Building --Temporarily Postponed",
       "date": "2026-01-28",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-31T12:29:57Z"
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "On Committee agenda-- Military and Veterans Affairs, Space, and Domestic Security, 02/11/26, 3:00 pm, 301 Senate Building",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
       }
     }
   ],
@@ -121,6 +131,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

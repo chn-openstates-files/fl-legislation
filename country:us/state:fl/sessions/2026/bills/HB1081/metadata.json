@@ -280,6 +280,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "PCS added to Education & Employment Committee agenda",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -394,6 +404,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

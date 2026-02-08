@@ -1,19 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 302",
-  "title": "Nature-based Solutions for Improving Coastal Resilience",
+  "title": "Nature-based Coastal Resiliency",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "appropriations",
+    "public lands and property",
     "reclamation, and use"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Nature-based Solutions for Improving Coastal Resilience;  Requiring the Department of Environmental Protection to adopt rules and guidelines for nature-based solutions for improving coastal resilience; requiring the department, in consultation with the Division of Insurance Agent and Agency Services of the Department of Financial Services, to conduct a statewide feasibility study regarding the value of nature-based solutions being used for a specified purpose, etc.\r\n    \r\n        APPROPRIATION:\r\n        $250,000"
+      "abstract": "Nature-based Coastal Resiliency;  Authorizing certain dredging and filling of submerged lands and placement of certain shorelines and seawalls within the Biscayne Bay Aquatic Preserve; authorizing the erection of certain structures within aquatic preserves; requiring the Department of Environmental Protection, by a specified date, to develop guidelines and standards for nature-based methods to address coastal resiliency and to adopt rules, subject to legislative ratification, for a statewide permitting process for such coastal resiliency, etc."
     }
   ],
   "other_titles": [],
@@ -124,9 +124,37 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Agriculture, Environment, and General Government",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Agriculture, Environment, and General Government\"}"
+    },
     {
       "name": "Environment and Natural Resources",
       "classification": "primary",
@@ -175,6 +203,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 302 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -212,6 +255,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Post-Meeting) (2/6/2026 4:25 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/302/Analyses/2026s00302.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "329416 - Amendment to S 302 Filed",
       "links": [
         {
@@ -227,7 +281,24 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Florida Statues",
+      "citation": "258.397",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/258.397"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "258.42",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/258.42"
+    }
+  ],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/302/ByCategory",
@@ -242,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

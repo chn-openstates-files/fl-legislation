@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Local Land Planning and Development;  Requires land development regulation commission to develop model ordinance to guide local governments in enactment of land planning & development program ordinance; requires local governments by date certain to enact land planning & development program ordinance under which local governments may enter into employment agreements with certain private providers to perform specified review services; establishes contract terms & conditions of employment agreements for review services under program ordinance; authorizes civil causes of action for specified relief; requires governing body of county or legal governing body of county, municipality, town, or village to create program, or to update existing program, to expedite process for issuing building permits for residential subdivisions, planned unit developments, or planned communities, or one or more phases of multi-phased community or subdivision, by date certain; authorizes applicant to use specified private provider for land use approvals to expedite application process for any plans necessary to support approval of site plan, preliminary plat, & final plat, or building permits after preliminary plat is approved."
+      "abstract": "Local Land Planning and Development;  Requires governing body of local government to create program that authorizes applicant to use qualified contractor to conduct preapplication review of application; authorizes local governments, school districts, or independent special districts to use qualified contractors for preapplication review for certain projects; authorizes applicants to bring civil actions; provides for award of attorney fees, costs, & damages; requires governing body of certain local governments & counties to create program to expedite process for building permits for planned unit developments or phases of community or subdivision; requires governing body to create two-step application process; authorizes applicant to use qualified contractor for land use approvals; authorizes applicant to retain private provider or qualified contractor to process, review, & expedite application for preliminary plat or related plans; requires applicant to replace qualified contractor or private provider if conflict of interest is discovered; requires applicant to be responsible for certain fees & costs; revises circumstances under which applicant has vested right in preliminary plat."
     }
   ],
   "other_titles": [],
@@ -111,9 +111,51 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Sapp",
       "classification": "primary",
@@ -135,19 +177,33 @@
       ],
       "date": "",
       "classification": ""
-    }
-  ],
-  "documents": [],
-  "citations": [
+    },
     {
-      "publication": "Florida Statues",
-      "citation": "163.3202",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/163.3202"
+      "note": "H 927 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/927/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/6/2026 2:36 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/927/Analyses/h0927.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
   "sources": [
     {
       "url": "https://flsenate.gov/Session/Bill/2026/927/ByCategory",
@@ -162,6 +218,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

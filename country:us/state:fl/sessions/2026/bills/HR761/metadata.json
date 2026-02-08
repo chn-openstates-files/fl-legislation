@@ -7,7 +7,7 @@
     "resolution"
   ],
   "subject": [
-    "subject index"
+    "(adopted)"
   ],
   "abstracts": [
     {
@@ -118,6 +118,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:57Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -171,6 +181,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/6/2026 6:17 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/761/Analyses/h0761b.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -188,6 +209,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:57Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

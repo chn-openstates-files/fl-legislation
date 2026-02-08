@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Cybersecurity Internships;  Creating the Cybersecurity Experiential Internship and Clearance Readiness Program within the Department of Commerce; requiring the department to enter into an agreement with the Florida Center for Cybersecurity (Cyber Florida) to implement the program in collaboration with specified universities and institutions; requiring the department, using data and analyses provided by Cyber Florida, to submit a report by a specified date and annually thereafter to the Governor and the Legislature, etc."
+      "abstract": "Cybersecurity Internships;  Requiring the Department of Commerce to create the Cybersecurity Experiential Learning Program in a specified fiscal year, subject to legislative appropriation; requiring the department use a certain percentage of appropriated funds in a specified fiscal year to enter into an agreement with Cyber Florida at the University of South Florida to collaborate in designing the program for implementation and plan for expansion of the program; requiring Cyber Florida to report specified information to the department; providing the department with authorized uses of unspent funds, etc."
     }
   ],
   "other_titles": [],
@@ -123,9 +123,27 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Transportation, Tourism, and Economic Development\"}"
+    },
     {
       "name": "Commerce and Tourism",
       "classification": "primary",
@@ -174,6 +192,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1266 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1266/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1266/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -211,6 +244,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Transportation, Tourism, and Economic Development (Post-Meeting) (2/6/2026 4:32 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1266/Analyses/2026s01266.atd.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "633256 - Amendment to S 1266 Filed",
       "links": [
         {
@@ -241,6 +285,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

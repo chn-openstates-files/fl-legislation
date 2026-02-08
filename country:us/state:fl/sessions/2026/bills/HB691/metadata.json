@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Agricultural Enclaves;  Authorizes owners of certain parcels to apply to governing body of local government for certification of such parcels as agricultural enclaves; authorizes owner of parcel certified as agricultural enclave to submit certain development plans; requires local government to treat certain agricultural enclaves as if they are within urban service districts; requires local government & owner of parcel certified as agricultural enclave to enter certain written agreement."
+      "abstract": "Agricultural Enclaves;  Authorizes owners of certain parcels to apply to governing body of local government for certification of such parcels as agricultural enclaves; requires certification of parcel as agricultural enclave; authorizes applicant to seek judicial review; authorizes owner of parcel certified as agricultural enclave to submit certain development plans; requires local government to treat certain agricultural enclaves as if they are within urban service districts; provides for future expiration & reversion of specified provisions."
     }
   ],
   "other_titles": [],
@@ -152,9 +152,51 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Housing, Agriculture & Tourism Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Housing, Agriculture & Tourism Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Housing, Agriculture & Tourism Subcommittee\"}"
+    },
     {
       "name": "Botana",
       "classification": "primary",
@@ -176,6 +218,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 691 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/691/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -191,10 +244,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/3/2026 4:33 PM)",
+      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/6/2026 10:46 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/691/Analyses/h0691b.HAT.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/691/Analyses/h0691c.HAT.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -256,6 +309,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

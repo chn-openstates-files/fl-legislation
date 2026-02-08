@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Housing for Veterans;  Establishes Homes for Veterans Property Management Incentive Pilot Program in certain counties; requires Florida Housing Finance Corporation, in conjunction with other entities & persons, to oversee pilot program; authorizes certain landlords to apply to corporation to receive funding from Vacancy Relief Trust Fund & Risk Mitigation Trust Fund; provides purpose of such trust funds; requires landlord to submit to corporation specified documentation within specified time period to apply for either trust fund; requires certain case managers assist corporation; authorizes landlord to apply for up to specified dollar amount from Risk Mitigation Trust Fund; provides requirement to apply for Risk Mitigation Trust Fund; provides that funding is awarded on first-come, first-served basis; provides appropriation."
+      "abstract": "Housing for Veterans;  Establishes Homes for Veterans Property Management Incentive Pilot Program in certain counties, requires Florida Housing Finance Corporation, in consultation with other entities & persons, to oversee specified aspects of pilot program; provides responsibilities of corporation for pilot program; requires contracted program administrators to maintain certain functions of pilot program; authorizes certain landlords to apply to contracted program administrator to request funding from Vacancy Relief Trust Fund & Risk Mitigation Trust Fund; provides purpose of such trust funds; requires landlord to submit to contracted program administrator required documentation within specified time period to apply for either trust fund; requires certain case managers to assist contracted program administrator; requires contracted program administrator to maintain & provide certain documentation to corporation; requires entity responsible for certain functions to maintain any supporting documentation; authorizes corporation to rely on certifications, determinations, & documentation provided by specified entities; authorizes landlord to apply for up to specified dollar amount from Risk Mitigation Trust Fund; provides requirements to apply for Risk Mitigation Trust Fund; provides that funding for pilot program is awarded on first-come, first-served basis; authorizes corporation to suspend acceptance of applications; requires specified notice."
     }
   ],
   "other_titles": [],
@@ -122,9 +122,51 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Housing, Agriculture & Tourism Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Housing, Agriculture & Tourism Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Housing, Agriculture & Tourism Subcommittee\"}"
+    },
     {
       "name": "Rosenwald",
       "classification": "primary",
@@ -162,14 +204,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1481 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1481/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/3/2026 4:33 PM)",
+      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/6/2026 1:06 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1481/Analyses/h1481.HAT.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1481/Analyses/h1481a.HAT.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -203,6 +256,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

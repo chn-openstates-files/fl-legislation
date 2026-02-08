@@ -53,6 +53,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "On Committee agenda-- Health Policy, 02/11/26, 3:00 pm, 412 Knott Building",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -83,7 +93,23 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "438984 - Amendment to S 1686 Filed",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1686/Amendment/438984/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1686/Amendment/438984/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -108,6 +134,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

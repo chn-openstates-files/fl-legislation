@@ -7,7 +7,9 @@
     "bill"
   ],
   "subject": [
+    "(adopted)",
     "banks and banking",
+    "labor",
     "subject index"
   ],
   "abstracts": [
@@ -89,6 +91,16 @@
       "_processing": {
         "log_file_created": "2026-01-17T12:25:13Z"
       }
+    },
+    {
+      "description": "Added to Commerce Committee agenda",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,6 +110,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jacques\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michael\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barnaby",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barnaby\"}",
       "organization_id": null
     }
   ],
@@ -131,6 +159,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-17T12:25:13Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

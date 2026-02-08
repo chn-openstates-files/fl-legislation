@@ -106,9 +106,37 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Agriculture, Environment, and General Government",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Agriculture, Environment, and General Government\"}"
+    },
     {
       "name": "Trumbull",
       "classification": "primary",
@@ -129,6 +157,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1682/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 1682 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1682/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1682/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -171,6 +214,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Post-Meeting) (2/6/2026 3:50 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1682/Analyses/2026s01682.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "464856 - Amendment to S 1682 Filed",
       "links": [
         {
@@ -194,6 +248,14 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/327.4107"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "327.4108",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/327.4108"
     },
     {
       "publication": "Florida Statues",
@@ -226,6 +288,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

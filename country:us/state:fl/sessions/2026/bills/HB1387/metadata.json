@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "State Economic Development Contracts;  Provides requirements for employer to be eligible for economic development incentive; provides procedures for handling suspected violations of specified provisions & for recovery of funds upon finding of violation; provides applicability; requires that Department of Commerce enter into separate agreement with recipient of economic development incentive to allow department to recover funds if recipient fails to comply with section; provides requirements for such agreements."
+      "abstract": "State Economic Development Contracts;  Requires employer to sign agreement with department before becoming eligible for economic development incentive; specifies provisions of agreement; provides applicability; authorizes persons & entities to report suspected violation to Attorney General within specified timeframe; requires Attorney General to determine whether violation has occurred; requires Attorney General to request certain information from employer alleged to be in violation; provides that refusal of such employer to provide such information is in violation of agreement; requires Attorney General to deliver his or her findings to such employer within specified timeframe; requires Attorney General to initiate proceedings to recover funds awarded to employer if employer is found to have violated agreement; provides that Attorney General's findings are final; requires department to execute separate written agreement with recipient of economic development incentive before department awards incentive; specifies contents of separate agreement; provides effective periods of separate agreement."
     }
   ],
   "other_titles": [],
@@ -110,9 +110,51 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Housing, Agriculture & Tourism Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Housing, Agriculture & Tourism Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Housing, Agriculture & Tourism Subcommittee\"}"
+    },
     {
       "name": "Overdorf",
       "classification": "primary",
@@ -134,14 +176,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1387 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1387/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/3/2026 4:58 PM)",
+      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/6/2026 11:21 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1387/Analyses/h1387.HAT.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1387/Analyses/h1387a.HAT.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -175,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

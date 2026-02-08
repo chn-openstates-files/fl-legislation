@@ -232,6 +232,16 @@
       "_processing": {
         "log_file_created": "2026-01-31T12:29:56Z"
       }
+    },
+    {
+      "description": "Added to State Affairs Committee agenda",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -301,6 +311,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- State Affairs Committee (Post-Meeting) (2/6/2026 6:22 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/4013/Analyses/h4013d.SAC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "510303 - Amendment to H 4013 Filed",
       "links": [
         {
@@ -327,6 +348,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-31T12:29:56Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

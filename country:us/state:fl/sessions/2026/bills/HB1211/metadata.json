@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Military Affairs;  Revising authorization to be granted leave of absence for military service to include Coast Guard; clarifies provision relating to leaves of absence for all state officers & employees for reserve or guard training; specifies that authorization for leave of absence for public officials & state employees to perform active military service for specified timeframe is based on single order; removes DMA positions from compulsory participation in SMS Class; provides that participation in such class for all other members employed within DMA is separately governed by specified provision; revises eligibility for Soldiers & Airmen Assistance Program to include traditional drilling guardsmen on state active duty or specified federal duty & their eligible beneficiaries demonstrating valid financial need; requires requests for assistance to be reviewed, processed, & approved by Florida National Guard Foundation's board of directors; requires requests for assistance to be reviewed & evaluated based on specified criteria; requires board to annually review bylaws that govern such program; requires board to provide report to DMA to be approved by Adjutant General."
+      "abstract": "Military Affairs;  Revises authorization to be granted leave of absence for military service to include Coast Guard; clarifies provision relating to leaves of absence for all state officers & employees for reserve or guard training; specifies that authorization for leave of absence for public officials & state employees to perform active military service for specified timeframe is based on single order; revises eligibility for Soldiers & Airmen Assistance Program to include traditional drilling guardsmen on state active duty or specified federal duty & their eligible beneficiaries demonstrating valid financial need; requires requests for assistance to be reviewed, processed, & approved by Florida National Guard Foundation's board of directors; requires requests for assistance to be reviewed & evaluated based on specified criteria; requires annual external audit of program; requires board to annually review bylaws that govern program; requires board to provide report to DMA to be approved by Adjutant General."
     }
   ],
   "other_titles": [],
@@ -121,9 +121,41 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Albert",
       "classification": "primary",
@@ -153,14 +185,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1211 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1211/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/3/2026 5:28 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/6/2026 9:16 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1211/Analyses/h1211.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1211/Analyses/h1211a.IAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -241,14 +284,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "121.055",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/121.055"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "250.10",
       "citation_type": "proposed",
       "effective": null,
@@ -278,6 +313,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

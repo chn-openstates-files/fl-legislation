@@ -258,6 +258,28 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Now in Health & Human Services Committee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -335,10 +357,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Health Care Budget Subcommittee (Post-Meeting) (2/4/2026 8:44 AM)",
+      "note": "Bill Analysis -- Health Care Budget Subcommittee (Post-Meeting) (2/6/2026 8:50 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1443/Analyses/h1443a.HCB.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1443/Analyses/h1443b.HCB.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -372,6 +394,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

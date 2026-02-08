@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Problem-solving Court Reports;  Requiring that specified data be included in problem-solving court reports; revising the frequency with which mental health and treatment-based drug court program reports, respectively, must be reported to the Office of the State Courts Administrator, etc."
+      "abstract": "Problem-solving Court Reports;  Requiring the Office of the State Courts Administrator to provide a problem-solving court report to the Legislature annually by a specified date; requiring specified court programs to collect certain data and information for program evaluation; requiring each such court program to report such data and information annually to the office, etc."
     }
   ],
   "other_titles": [],
@@ -105,9 +105,37 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Now in Rules",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Criminal and Civil Justice",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Criminal and Civil Justice\"}"
+    },
     {
       "name": "Bradley",
       "classification": "primary",
@@ -128,6 +156,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/820/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 820 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/820/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/820/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -170,6 +213,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Criminal and Civil Justice (Post-Meeting) (2/6/2026 3:55 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/820/Analyses/2026s00820.acj.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "571020 - Amendment (Delete All) to S 820 Filed",
       "links": [
         {
@@ -188,11 +242,27 @@
   "citations": [
     {
       "publication": "Florida Statues",
+      "citation": "39.01304",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/39.01304"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "43.51",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/43.51"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "394.47891",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/394.47891"
     },
     {
       "publication": "Florida Statues",
@@ -225,6 +295,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

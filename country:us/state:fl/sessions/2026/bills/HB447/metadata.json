@@ -206,9 +206,51 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Government Operations Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Government Operations Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Government Operations Subcommittee\"}"
+    },
     {
       "name": "Maney",
       "classification": "primary",
@@ -254,6 +296,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 447 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/447/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -280,10 +333,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/3/2026 4:58 PM)",
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/6/2026 3:26 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/447/Analyses/h0447d.GOS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/447/Analyses/h0447e.GOS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -334,6 +387,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

@@ -8,12 +8,13 @@
   ],
   "subject": [
     "municipalities",
-    "relations"
+    "relations",
+    "subject index"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Local Government Spending;  Requires posting of county & municipality budgets to allow members of public to download & review certain information & data in specified formats; requires certain officers to perform a specified exercise before final adoption of budget; prohibits local governments from expending public funds for purpose of diversity, equity, & inclusion; prohibits local governments from contracting with private vendors for services for promoting, advocating for, or providing training or education on diversity, equity, & inclusion; requires all local governments make specified certification to CFO by date certain each year; requires CFO to conduct specified evaluation; specifies that local governments that violate certain provisions are subject to administrative fines; requires such fines to be deposited in Insurance Regulatory Trust Fund."
+      "abstract": "Local Government Spending;  Revises length of time tentative budgets & final budgets must be posted on county, municipality, & special district websites; requires county budget officer & governing body of municipality to perform certain exercise before final adoption of budget; revises length of time public hearing for amendment to county budget must be advertised; revises length of time adopted amendment must be posted on county, municipality, & special district websites; requires posting of proposed amendment to meet certain requirements."
     }
   ],
   "other_titles": [],
@@ -121,9 +122,41 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Benarroch",
       "classification": "primary",
@@ -153,9 +186,32 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1329 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1329/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/6/2026 9:31 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1329/Analyses/h1329.IAS.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Florida Statues",
@@ -172,6 +228,22 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/129.06"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "166.241",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/166.241"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "189.016",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/189.016"
     }
   ],
   "sources": [
@@ -188,6 +260,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

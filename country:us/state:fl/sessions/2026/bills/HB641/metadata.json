@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Gender Identity Employment Practices;  Specifies employment policy of this state relating to person's sex; prohibits employees & contractors of certain employers from being required to use certain pronouns or requiring such employer to use pronoun that does not correspond to employee's or contractor's sex; prohibits certain forms from offering specified options relating to applicant's sex; prohibits adverse personnel action on basis of gender ideology; provides administrative & civil remedies; provides reasonable attorney fees & costs; authorizes DMS to adopt rules; provides that it is unlawful employment practice for certain employers to require certain training, instruction, or activity as condition of employment."
+      "abstract": "Gender Identity Employment Practices;  Specifies employment policy of this state relating to person's sex; prohibits employees & contractors of certain employers from being required to use certain pronouns or requiring such employers to use pronoun that does not correspond to employee's or contractor's sex; prohibits certain forms from offering specified options relating to applicant's sex; prohibits adverse personnel action on basis of gender ideology; provides administrative & civil remedies; provides reasonable attorney fees & costs; authorizes DMS to adopt rules; provides it is unlawful employment practice for certain employers to require certain training, instruction, or activity as condition of employment."
     }
   ],
   "other_titles": [],
@@ -121,9 +121,41 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Government Operations Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Government Operations Subcommittee\"}"
+    },
     {
       "name": "Plakon",
       "classification": "primary",
@@ -193,14 +225,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 641 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/641/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/3/2026 5:13 PM)",
+      "note": "Bill Analysis -- Government Operations Subcommittee (Post-Meeting) (2/6/2026 9:25 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/641/Analyses/h0641.GOS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/641/Analyses/h0641a.GOS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -234,6 +277,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

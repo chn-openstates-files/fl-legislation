@@ -16,7 +16,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Department of Commerce;  Exempts federal agencies from requirement that conveyance at less than appraised value must state that land will revert to board of trustees if land is not used for its intended purposes as military installation buffer or if military installation closes; revises definition of term \"rural community\"; repeals provisions, relating to Florida Small Cities Community Development Block Grant Program Act, legislative intent & purpose, definitions, Florida Small Cities Community Development Block Grant Loan Guarantee Program, applications for grants, establishment of grant ceilings & maximum administrative cost percentages & elimination of population bias, rejection of grant applications & penalties for failure to meet application conditions, & general powers of department under s. 290.0401, respectively; designates Department of Commerce as state agency to receive federal funding from United States Department of Housing & Urban Development to administer Community Development Block Grant Program; provides that department shall administer additional federal funding in accordance with federal law & guidance from Department of Housing & Urban Development; authorizes Department of Commerce to adopt rules; etc."
+      "abstract": "Department of Commerce;  Exempts federal agencies from requirement that conveyance at less than appraised value must state that land will revert to board of trustees if land is not used for its intended purposes as military installation buffer or if military installation closes; revises definition of term \"rural community\"; repeals provisions, relating to Florida Small Cities Community Development Block Grant Program Act, legislative intent & purpose, definitions, Florida Small Cities Community Development Block Grant Loan Guarantee Program, applications for grants, establishment of grant ceilings & maximum administrative cost percentages & elimination of population bias, rejection of grant applications & penalties for failure to meet application conditions, & general powers of department under s. 290.0401, respectively; designates Department of Commerce as state agency to receive federal funding from United States Department of Housing & Urban Development to administer Community Development Block Grant Program; provides that department shall administer additional federal funding in accordance with federal law & guidance from Department of Housing & Urban Development; authorizes Department of Commerce to adopt rules."
     }
   ],
   "other_titles": [],
@@ -114,9 +114,51 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Housing, Agriculture & Tourism Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Housing, Agriculture & Tourism Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Housing, Agriculture & Tourism Subcommittee\"}"
+    },
     {
       "name": "Owen",
       "classification": "primary",
@@ -138,14 +180,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 741 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/741/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/3/2026 4:33 PM)",
+      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/6/2026 3:02 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/741/Analyses/h0741.HAT.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/741/Analyses/h0741a.HAT.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -271,14 +324,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "295.22",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/295.22"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "448.09",
       "citation_type": "proposed",
       "effective": null,
@@ -308,6 +353,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

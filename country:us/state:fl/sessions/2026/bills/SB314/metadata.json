@@ -1,18 +1,19 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 314",
-  "title": "Issuers of Digital Assets",
+  "title": "Payment Stablecoin",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "subject index"
+    "banks and banking",
+    "concurrent)"
   ],
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Issuers of Digital Assets;  Providing requirements for persons to qualify as recognized payment stablecoin issuers; providing that recognized payment stablecoin issuers are not required to obtain specified separate licenses or registrations for certain purposes; providing that the Office of Financial Regulation of the Financial Services Commission has jurisdiction to determine certain compliance, etc."
+      "abstract": "Payment Stablecoin;  Revising the definition of the term \u201cmoney services business\u201d; revising the Florida Control of Money Laundering in Money Services Business Act to include payment stablecoins; prohibiting persons from engaging in the activity of a qualified payment stablecoin issuer without registering and receiving a specified notification; requiring applicants seeking to be a qualified payment stablecoin issuer to submit a specified application to the office; specifying that qualified payment stablecoin issuers may only engage in certain activities, etc."
     }
   ],
   "other_titles": [],
@@ -73,9 +74,37 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Banking and Insurance",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Banking and Insurance\"}"
+    },
     {
       "name": "Burton",
       "classification": "primary",
@@ -101,6 +130,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 314 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/314/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/314/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -109,6 +153,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/314/Analyses/2026s00314.pre.bi.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Banking and Insurance (Post-Meeting) (2/6/2026 11:24 AM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/314/Analyses/2026s00314.bi.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -139,6 +194,38 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/560.103"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.114",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.114"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.123",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.123"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "560.125",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/560.125"
+    },
+    {
+      "publication": "Florida Chapter Law",
+      "citation": "2025-100",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "http://laws.flrules.org/2025/100"
     }
   ],
   "sources": [
@@ -155,6 +242,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

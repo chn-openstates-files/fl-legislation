@@ -13,7 +13,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Elections;  Revising the oath persons must subscribe to when registering to vote; revising the information the statewide voter registration application is designed to elicit from an applicant to include documentation required by the Election Assistance Commission or federal law; requiring that an applicant\u2019s legal status as a United States citizen be verified by the records of the Department of Highway Safety and Motor Vehicles before the online voter registration system transmits an application to the supervisor of elections; providing that applications to update a voter\u2019s record are retroactive under a specified condition, etc."
+      "abstract": "Elections;  Revising the information the statewide voter registration application is designed to elicit from an applicant to include a certain acknowledgment; requiring that the online voter registration system transmit specified information to the supervisor of elections under specified circumstances; requiring that if the records of the Department of Highway Safety and Motor Vehicles indicate that an applicant is not a United States citizen or has not submitted evidence of citizenship, the online voter registration system must notify the supervisor of the applicant\u2019s legal status and transmit the application to the supervisor; requiring the Department of State to identify certain voters by comparing or receiving information from specified sources; requiring the supervisor to adhere to specified procedures to remove the voter\u2019s name from the statewide voter registration system, etc."
     }
   ],
   "other_titles": [],
@@ -74,9 +74,37 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Now in Appropriations Committee on Transportation, Tourism, and Economic Development",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Ethics and Elections",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Ethics and Elections\"}"
+    },
     {
       "name": "Grall",
       "classification": "primary",
@@ -102,6 +130,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1334 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -110,6 +153,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/1334/Analyses/2026s01334.pre.ee.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Ethics and Elections (Post-Meeting) (2/6/2026 1:13 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1334/Analyses/2026s01334.ee.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -158,14 +212,6 @@
     },
     {
       "publication": "Florida Statues",
-      "citation": "97.051",
-      "citation_type": "proposed",
-      "effective": null,
-      "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/97.051"
-    },
-    {
-      "publication": "Florida Statues",
       "citation": "97.052",
       "citation_type": "proposed",
       "effective": null,
@@ -198,6 +244,14 @@
     },
     {
       "publication": "Florida Statues",
+      "citation": "98.015",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/98.015"
+    },
+    {
+      "publication": "Florida Statues",
       "citation": "98.045",
       "citation_type": "proposed",
       "effective": null,
@@ -227,6 +281,94 @@
       "effective": null,
       "expires": null,
       "url": "https://flsenate.gov/laws/statutes/2025/98.093"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "99.012",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/99.012"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "99.021",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/99.021"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "101.151",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/101.151"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "101.5606",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/101.5606"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "101.56075",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/101.56075"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "101.5608",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/101.5608"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "101.5612",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/101.5612"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "101.69",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/101.69"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "102.111",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/102.111"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "102.141",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/102.141"
+    },
+    {
+      "publication": "Florida Statues",
+      "citation": "102.166",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": "https://flsenate.gov/laws/statutes/2025/102.166"
     }
   ],
   "sources": [
@@ -243,6 +385,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

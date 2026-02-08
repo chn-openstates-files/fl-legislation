@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Memory Care;  Requires memory care providers to follow specified standards of operation in providing memory care services; provides requirements for resident contracts; provides requirements for memory care facilities; prohibits certain facilities from advertising, representing, or holding themselves out as memory care providers unless such facilities meet specified criteria; removes provisions relating to special care for persons with Alzheimer's disease, dementia, or other memory disorders; provides purpose & legislative intent for Florida Alzheimer's Center of Excellence; provides duties of center; provides eligibility requirements for services."
+      "abstract": "Memory Care;  Requires memory care providers to follow specified standards of operation in providing memory care services; provides requirements for resident contracts; provides requirements for memory care facilities; prohibits certain facilities from advertising, representing, or holding themselves out as memory care providers unless such facilities meet specified criteria; removes provisions relating to special care for persons with Alzheimer's disease, dementia, or other memory disorders."
     }
   ],
   "other_titles": [],
@@ -98,9 +98,85 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Health Care Facilities & Systems Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "Referred to Health Care Budget Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "Referred to Health & Human Services Committee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
+    },
+    {
+      "description": "Now in Health Care Budget Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Health Care Facilities & Systems Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Health Care Facilities & Systems Subcommittee\"}"
+    },
     {
       "name": "Greco",
       "classification": "primary",
@@ -122,14 +198,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1295 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1295/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Health Care Facilities & Systems Subcommittee (Post-Meeting) (2/4/2026 5:01 PM)",
+      "note": "Bill Analysis -- Health Care Facilities & Systems Subcommittee (Post-Meeting) (2/6/2026 11:11 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1295/Analyses/h1295.HFS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1295/Analyses/h1295a.HFS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -151,19 +238,19 @@
   "citations": [
     {
       "publication": "Florida Statues",
-      "citation": "429.177",
+      "citation": "429.02",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/429.177"
+      "url": "https://flsenate.gov/laws/statutes/2025/429.02"
     },
     {
       "publication": "Florida Statues",
-      "citation": "429.178",
+      "citation": "429.07",
       "citation_type": "proposed",
       "effective": null,
       "expires": null,
-      "url": "https://flsenate.gov/laws/statutes/2025/429.178"
+      "url": "https://flsenate.gov/laws/statutes/2025/429.07"
     }
   ],
   "sources": [
@@ -180,6 +267,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

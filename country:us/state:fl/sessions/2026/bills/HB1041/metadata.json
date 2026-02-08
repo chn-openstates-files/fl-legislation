@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Business Development Incentives for Veterans and Military Spouses;  Requires DOS to waive specified fees for certain businesses; provides eligibility & registration requirements for such waivers; provides tax exemptions for certain businesses; provides eligibility requirements for such exemptions; requires DOR to establish procedures for claiming such exemptions; provides for rulemaking & interagency cooperation; provides annual reporting requirements."
+      "abstract": "Business Development Incentives for Veterans and Military Spouses ;  Requires DOS to waive specified fees for certain businesses; provides eligibility & registration requirements for such waivers; provides tax exemptions for certain businesses; provides eligibility requirements for such exemptions; requires DOR to establish procedures for claiming such exemptions; provides for rulemaking & interagency cooperation; provides annual reporting requirements."
     }
   ],
   "other_titles": [],
@@ -120,9 +120,41 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Gantt",
       "classification": "primary",
@@ -144,14 +176,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 1041 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1041/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/3/2026 5:23 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/6/2026 9:16 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/1041/Analyses/h1041.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/1041/Analyses/h1041a.IAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -185,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

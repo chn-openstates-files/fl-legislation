@@ -19,7 +19,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Child Care and Early Learning Services ;  Revises minimum standards for child care facility licensing; removes provisions requiring family day care homes & large family day care homes to provide specified information to parents; prohibits residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, operations of large family child care homes; provides that insurers are under no obligation to defend against lawsuits covering such claims; prohibits insurers from denying, cancelling, & refusing to renew policy for residential property insurance on basis that policyholders or applicants operate large family child care homes; establishes Florida Endowment for Early Learning Foundation within DOE direct-support organization; provides revenues for endowment fund; provides that funds from state sources are accounted separately from public & private sources; provides powers & duties of board of directors; provides for distribution of moneys from endowment fund; provides administration of Center for Early Childhood Professional Recognition."
+      "abstract": "Child Care and Early Learning Services;  Revises and providing definitions; revises minimum standards for child care facility licensing; removes provisions requiring family day care homes & large family child care homes, respectively, to provide specified information to parents; changes term \"family day care\" to \"family child care\"; provides legislative intent relating to large family child care homes; defines \"large family child care home\"; prohibits residential property insurance policies from providing coverage for liability for claims arising out of, or in connection with, operations of large family child care homes; provides that insurers are under no obligation to defend against lawsuits covering such claims; provides exceptions; prohibits insurers from denying, cancelling, and refusing to renew policy for residential property insurance on basis that policyholders or applicants operate large family child care homes; provides exceptions; reenacting and revising definition of term \"DOE direct-support organization\"; creates Brighter Futures Program within DOE direct-support organization."
     }
   ],
   "other_titles": [],
@@ -243,9 +243,51 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Student Academic Success Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Student Academic Success Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Student Academic Success Subcommittee\"}"
+    },
     {
       "name": "Human Services Subcommittee",
       "classification": "primary",
@@ -268,6 +310,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Basabe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L\u00f3pez, J.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"L\\u00f3pez, J.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rizo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rizo\"}",
       "organization_id": null
     }
   ],
@@ -294,6 +352,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 765 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/765/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -309,10 +378,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Student Academic Success Subcommittee (Post-Meeting) (2/3/2026 5:23 PM)",
+      "note": "Bill Analysis -- Student Academic Success Subcommittee (Post-Meeting) (2/6/2026 2:21 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/765/Analyses/h0765b.SAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/765/Analyses/h0765c.SAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -539,6 +608,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

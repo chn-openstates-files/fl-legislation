@@ -232,6 +232,16 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Added to Education & Employment Committee agenda",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -341,6 +351,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Education & Employment Committee (Post-Meeting) (2/6/2026 5:32 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/859/Analyses/h0859d.EEC.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "248507 - Amendment to H 859 Filed",
       "links": [
         {
@@ -376,6 +397,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:04Z"
   }
 }

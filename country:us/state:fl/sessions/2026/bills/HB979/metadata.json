@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Infill Redevelopment;  Requires local government to permit development of certain qualifying parcels up to certain density & intensity; requires local government to permit development of qualifying parcel with single-family homes or townhouses; prohibits local government from imposing certain restrictions or requirements on development of certain qualifying parcels; prohibits local government from using subdivision process to restrict development; requires developers of qualifying parcels to establish that certain recreational facilities & areas reserved for recreational use have not been in operation or use for certain timeframe, to pay double parks & recreational facilities impact fees for certain purpose, & to provide certain written notice to certain property owners; requires property owners who receive such written notice to exercise option to purchase certain parcels or portions thereof within specified timeframe or forfeit option."
+      "abstract": "Infill Redevelopment ;  Requires local government to permit development of certain qualifying parcels up to certain density & intensity; requires developers of qualifying parcels to maintain specified buffer between new developments & single-family homes & townhouses; requires developers of qualifying parcels to establish that certain recreational facilities & areas reserved for recreational use have not been in operation or use for certain timeframe, to pay double parks & recreational facilities impact fees, & to provide written notice to certain property owners; requires property owners who receive such written notice to exercise option to purchase certain parcels or portions thereof within specified timeframe or forfeit option; requires development on qualifying parcels to meet concurrency requirements."
     }
   ],
   "other_titles": [],
@@ -110,9 +110,51 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Intergovernmental Affairs Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Intergovernmental Affairs Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Intergovernmental Affairs Subcommittee\"}"
+    },
     {
       "name": "Borrero",
       "classification": "primary",
@@ -134,14 +176,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 979 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/979/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/3/2026 6:28 PM)",
+      "note": "Bill Analysis -- Intergovernmental Affairs Subcommittee (Post-Meeting) (2/6/2026 12:56 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/979/Analyses/h0979.IAS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/979/Analyses/h0979a.IAS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -175,6 +228,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

@@ -152,6 +152,26 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Health Care Facilities & Systems Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Now in State Affairs Committee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -191,10 +211,10 @@
       "classification": ""
     },
     {
-      "note": "Bill Analysis -- Health Care Facilities & Systems Subcommittee (Post-Meeting) (2/4/2026 4:51 PM)",
+      "note": "Bill Analysis -- Health Care Facilities & Systems Subcommittee (Post-Meeting) (2/6/2026 8:55 AM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/4087/Analyses/h4087b.HFS.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/4087/Analyses/h4087c.HFS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -217,6 +237,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

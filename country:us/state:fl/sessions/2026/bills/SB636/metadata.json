@@ -106,9 +106,27 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Agriculture, Environment, and General Government",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Agriculture, Environment, and General Government\"}"
+    },
     {
       "name": "Leek",
       "classification": "primary",
@@ -129,6 +147,21 @@
         },
         {
           "url": "https://flsenate.gov/Session/Bill/2026/636/BillText/Filed/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S 636 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/636/BillText/c1/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/636/BillText/c1/PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -164,6 +197,17 @@
       "links": [
         {
           "url": "https://flsenate.gov/Session/Bill/2026/636/Analyses/2026s00636.pre.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Post-Meeting) (2/6/2026 3:50 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/636/Analyses/2026s00636.aeg.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -234,6 +278,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

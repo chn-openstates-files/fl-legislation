@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Refrigerant Safety and Agricultural Continuity;  Authorizes agricultural food processing & cold chain industries to continue to purchase, install, & service equipment using R-410A refrigerant through specified date; requires DACS to maintain certain records & provide annual report to Legislature; provides immunity from liability for certain persons & business entities; authorizes DACS to coordinate with certain entities for specified purpose & adopt rules."
+      "abstract": "Refrigerant Safety and Agricultural Continuity;  Requires DACS to provide annual report to Legislature by specified date; authorizes DACS to coordinate with certain entities for specified purpose."
     }
   ],
   "other_titles": [],
@@ -110,9 +110,51 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Reported out of Housing, Agriculture & Tourism Subcommittee",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Laid on Table under Rule 7.18(a)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "CS Filed",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Housing, Agriculture & Tourism Subcommittee",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Housing, Agriculture & Tourism Subcommittee\"}"
+    },
     {
       "name": "Gonzalez Pittman",
       "classification": "primary",
@@ -182,14 +224,25 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H 999 c1",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/999/BillText/c1/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/3/2026 6:03 PM)",
+      "note": "Bill Analysis -- Housing, Agriculture & Tourism Subcommittee (Post-Meeting) (2/6/2026 4:22 PM)",
       "links": [
         {
-          "url": "https://flsenate.gov/Session/Bill/2026/999/Analyses/h0999.HAT.PDF",
+          "url": "https://flsenate.gov/Session/Bill/2026/999/Analyses/h0999a.HAT.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -234,6 +287,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }

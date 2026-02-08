@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 1288",
-  "title": "Waterbody Designations/Andrew \u201cRed\u201d Harris Shoal",
+  "title": "Waterbody Designations/Andrew \u201cRed\u201d Harris Spoil Island",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,7 +12,7 @@
   "abstracts": [
     {
       "note": "summary",
-      "abstract": "Waterbody Designations/Andrew \u201cRed\u201d Harris Shoal;  Designating the Andrew \u201cRed\u201d Harris Shoal; directing the Department of Environmental Protection to erect suitable markers, etc."
+      "abstract": "Waterbody Designations/Andrew \u201cRed\u201d Harris Spoil Island;  Designating the Andrew \u201cRed\u201d Harris Spoil Island; directing the Department of Environmental Protection to erect specified suitable markers, etc."
     }
   ],
   "other_titles": [],
@@ -123,9 +123,37 @@
       "_processing": {
         "log_file_created": "2026-02-07T12:30:43Z"
       }
+    },
+    {
+      "description": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
+    },
+    {
+      "description": "Now in Fiscal Policy",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-08T12:31:05Z"
+      }
     }
   ],
   "sponsorships": [
+    {
+      "name": "Appropriations Committee on Agriculture, Environment, and General Government",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Appropriations Committee on Agriculture, Environment, and General Government\"}"
+    },
     {
       "name": "Environment and Natural Resources",
       "classification": "primary",
@@ -174,6 +202,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S 1288 c2",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1288/BillText/c2/HTML",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1288/BillText/c2/PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -211,6 +254,17 @@
       "classification": ""
     },
     {
+      "note": "Bill Analysis -- Appropriations Committee on Agriculture, Environment, and General Government (Post-Meeting) (2/6/2026 3:50 PM)",
+      "links": [
+        {
+          "url": "https://flsenate.gov/Session/Bill/2026/1288/Analyses/2026s01288.aeg.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "852850 - Amendment to S 1288 Filed",
       "links": [
         {
@@ -241,6 +295,6 @@
     "division_id": "ocd-division/country:us/state:fl"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-07T12:30:43Z"
+    "logs_latest_update": "2026-02-08T12:31:05Z"
   }
 }
